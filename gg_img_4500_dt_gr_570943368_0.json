@@ -1,244 +1,67 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/participant_gg_img_4500_it.json",
-    "id_item": "participant_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/pivot_gg_img_4500_it.json",
+    "id_item": "pivot_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "participant",
+    "english": "pivot",
     "list_mean": [
-      "dự vào"
+      "trục",
+      "lắp vào trục",
+      "xoay quanh trục"
     ],
-    "cau_en": "eager students would become firsthand participants in an archaeological exploration",
-    "cau_vn": "Học sinh háo hức sẽ trở thành người tham gia trực tiếp vào một cuộc thám hiểm khảo cổ học",
-    "hash_code_list_mean": "884434146",
+    "cau_en": "he swung around, pivoting on his heel",
+    "cau_vn": "Anh vung xung quanh, xoay quanh gót chân",
+    "hash_code_list_mean": "2124286984",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809686359_999396b426_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809686359_050cde9dd0_o.png",
-        "id_image": "participant_5957132"
+        "link_thumb": "https://live.staticflickr.com/65535/51808389422_c02fff1295_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808389422_ab0d975088_o.png",
+        "id_image": "pivot_1070262"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809446288_8dfd8d3d0c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809446288_ba3a71f8b5_o.png",
-        "id_image": "participant_6040649"
+        "link_thumb": "https://live.staticflickr.com/65535/51809344441_ac8176d70f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809344441_731c5d04ea_o.png",
+        "id_image": "pivot_2240461"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809699514_29fd4b89d8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809699514_1191a16c0d_o.png",
+        "id_image": "pivot_4234486"
       }
     ],
-    "hash_code_list_img": "1659565064"
+    "hash_code_list_img": "2142731969"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/hobby_gg_img_4500_it.json",
-    "id_item": "hobby_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/magnification_gg_img_4500_it.json",
+    "id_item": "magnification_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "hobby",
+    "english": "magnification",
     "list_mean": [
-      "chim ưng nhỏ",
-      "ngựa nhỏ",
-      "sự giải trí",
-      "tiêu khiển ưa thích"
+      "sự làm cho thấy to",
+      "sự tán tụng"
     ],
-    "cau_en": "her hobbies are reading and gardening",
-    "cau_vn": "Sở thích của cô là đọc sách và làm vườn",
-    "hash_code_list_mean": "2110349712",
+    "cau_en": "visible under high magnification",
+    "cau_vn": "nhìn thấy dưới độ phóng đại cao",
+    "hash_code_list_mean": "-1191548575",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809690919_2903b2e73e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809690919_40148f2573_o.png",
-        "id_image": "hobby_4968155"
+        "link_thumb": "https://live.staticflickr.com/65535/51810066160_ddc4d4fb5e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810066160_c8e5621f99_o.png",
+        "id_image": "magnification_2472737"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809335661_b03de8d69e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809335661_d320bcccd0_o.png",
-        "id_image": "hobby_6133474"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809690849_5bf937c408_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809690849_efbab81b19_o.png",
-        "id_image": "hobby_6133495"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810072515_000ca3a55f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810072515_d516c04e7c_o.png",
-        "id_image": "hobby_6133509"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809335566_b6c8ed27ca_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809335566_fe12439cd0_o.png",
-        "id_image": "hobby_6133516"
+        "link_thumb": "https://live.staticflickr.com/65535/51809444338_3f4429fb4f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809444338_93128cc67d_o.png",
+        "id_image": "magnification_3160992"
       }
     ],
-    "hash_code_list_img": "-1421409766"
+    "hash_code_list_img": "892026103"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/magnify_gg_img_4500_it.json",
-    "id_item": "magnify_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/catalogue_gg_img_4500_it.json",
+    "id_item": "catalogue_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "magnify",
-    "list_mean": [
-      "làm tiếng nói to thêm",
-      "làm thấy lớn ra",
-      "nói khoác",
-      "phóng đại"
-    ],
-    "cau_en": "the camera's zoom mode can magnify a certain area if required",
-    "cau_vn": "Chế độ thu phóng của máy ảnh có thể phóng to một khu vực nhất định nếu được yêu cầu",
-    "hash_code_list_mean": "2046997983",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809444298_3ed9d252f4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809444298_28181b8933_o.png",
-        "id_image": "magnify_2455867"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809444238_6bab83ccfb_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809444238_603ec193b0_o.png",
-        "id_image": "magnify_5236225"
-      }
-    ],
-    "hash_code_list_img": "982648709"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/herbal_gg_img_4500_it.json",
-    "id_item": "herbal_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "herbal",
-    "list_mean": [
-      "bách thảo tập"
-    ],
-    "cau_en": "herbal remedies",
-    "cau_vn": "biện pháp thảo dược",
-    "hash_code_list_mean": "-374749056",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809338561_5d014a091f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809338561_3092c32251_o.png",
-        "id_image": "herbal_1407893"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809693669_d50b71b397_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809693669_5000a04688_o.png",
-        "id_image": "herbal_1407895"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810075515_0e7193dfdd_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810075515_f1255aaf48_o.png",
-        "id_image": "herbal_3023749"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808383367_3965f3a2b3_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808383367_2281b6d20c_o.png",
-        "id_image": "herbal_4061407"
-      }
-    ],
-    "hash_code_list_img": "141820211"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/curse_gg_img_4500_it.json",
-    "id_item": "curse_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "curse",
-    "list_mean": [
-      "dể ghét",
-      "ghê tởm",
-      "thiệt hại",
-      "trù rủa",
-      "lời chưởi thề",
-      "vật đáng ghét",
-      "lời rủa",
-      "chưởi rủa",
-      "nguyền rủa"
-    ],
-    "cau_en": "it often seemed as if the family had been cursed",
-    "cau_vn": "Dường như họ thường bị nguyền rủa",
-    "hash_code_list_mean": "-415399676",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809669199_808130aa09_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809669199_34ca26dd70_o.png",
-        "id_image": "cursing_1805258"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810051090_3143e0b9f1_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810051090_c24f1b7da4_o.png",
-        "id_image": "cursing_4126461"
-      }
-    ],
-    "hash_code_list_img": "-1363382068"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/maneuver_gg_img_4500_it.json",
-    "id_item": "maneuver_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "maneuver",
-    "list_mean": [
-      "sự thao diển quân đội",
-      "sự vận động lừa dối",
-      "vận dụng khéo léo",
-      "dùng mưu kế",
-      "thao diển quân đội"
-    ],
-    "cau_en": "the truck was unable to maneuver comfortably in the narrow street",
-    "cau_vn": "Chiếc xe tải không thể điều động thoải mái trong đường phố hẹp",
-    "hash_code_list_mean": "856862777",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809326236_ec2fc4fe39_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809326236_ef3ea52fa8_o.png",
-        "id_image": "maneuver_3410419"
-      }
-    ],
-    "hash_code_list_img": "526796960"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/lent_gg_img_4500_it.json",
-    "id_item": "lent_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "lent",
-    "list_mean": [
-      "mùa chay",
-      "tuần chay"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "2098717531",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809700599_ab97dce8b6_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809700599_2037d2fcce_o.png",
-        "id_image": "lent_688456"
-      }
-    ],
-    "hash_code_list_img": "2058333238"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/muffin_gg_img_4500_it.json",
-    "id_item": "muffin_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "muffin",
-    "list_mean": [
-      "bánh nướng xốp",
-      "một thứ bánh trắng mềm"
-    ],
-    "cau_en": "blueberry muffins",
-    "cau_vn": "bánh nướng xốp việt quất",
-    "hash_code_list_mean": "1807098259",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808377537_3a6e176e78_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808377537_bf22882351_o.png",
-        "id_image": "muffin_190970"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809332681_e1cdb6dc9f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809332681_f6bd60fa50_o.png",
-        "id_image": "muffin_4561029"
-      }
-    ],
-    "hash_code_list_img": "1170427501"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/catalog_gg_img_4500_it.json",
-    "id_item": "catalog_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "catalog",
+    "english": "catalogue",
     "list_mean": [
       "ca ta lô",
       "bản tổng kê",
@@ -256,590 +79,1175 @@
     "hash_code_list_mean": "-726432893",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809435823_c0795c865a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809435823_1a1705ccf7_o.png",
-        "id_image": "catalog_1042411"
+        "link_thumb": "https://live.staticflickr.com/65535/51808365377_af2b3278c3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808365377_be8eaf577c_o.png",
+        "id_image": "catalogue_1131465"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809320586_f3984684a9_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809320586_3efcfe6659_o.png",
-        "id_image": "catalog_4357367"
+        "link_thumb": "https://live.staticflickr.com/65535/51809435528_38d34b2315_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809435528_7940acb59d_o.png",
+        "id_image": "catalogue_3814138"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808365502_d0381af773_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808365502_36a3ac25c3_o.png",
-        "id_image": "catalog_4532217"
+        "link_thumb": "https://live.staticflickr.com/65535/51810057105_42db014170_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810057105_baf8883bf7_o.png",
+        "id_image": "catalogue_4287223"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809320526_957c298923_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809320526_36b867e861_o.png",
-        "id_image": "catalog_4668418"
+        "link_thumb": "https://live.staticflickr.com/65535/51809675284_7fc43a7808_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809675284_216187098c_o.png",
+        "id_image": "catalogue_5240931"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809320476_493537b18c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809320476_047f55d597_o.png",
-        "id_image": "catalog_5485928"
+        "link_thumb": "https://live.staticflickr.com/65535/51809675434_79ef5179bb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809675434_5fb2efaf28_o.png",
+        "id_image": "catalogue_741897"
       }
     ],
-    "hash_code_list_img": "-113776979"
+    "hash_code_list_img": "1714753426"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/bargain_gg_img_4500_it.json",
-    "id_item": "bargain_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/culinary_gg_img_4500_it.json",
+    "id_item": "culinary_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "bargain",
+    "english": "culinary",
     "list_mean": [
-      "khế ước giao kèo",
-      "mặc cả",
-      "sự thỏa thuận",
-      "điều đình",
-      "thương thuyết",
-      "trả gía"
+      "về nhà bếp",
+      "việc nấu ăn"
     ],
-    "cau_en": "the extraconstitutional bargain between the northern elite and the southern planters",
-    "cau_vn": "cuộc hống hề ngoại ngạch giữa giới thượng lưu phía bắc và những người trồng trọt phía Nam",
-    "hash_code_list_mean": "-1978634631",
+    "cau_en": "culinary skills",
+    "cau_vn": "Kỹ năng ẩm thực",
+    "hash_code_list_mean": "-1488963151",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809670174_6ac711080f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809670174_d5d852d890_o.png",
-        "id_image": "bargaining_6213289"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809670244_6e6af8e96f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809670244_7bf059c287_o.png",
-        "id_image": "bargain_1476900"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808359712_55ee7f76c9_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808359712_5ab8a8c5e1_o.png",
-        "id_image": "bargain_1900171"
+        "link_thumb": "https://live.staticflickr.com/65535/51809670874_8e8fffa75e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809670874_36c9fdc2c7_o.png",
+        "id_image": "culinary_4047768"
       }
     ],
-    "hash_code_list_img": "-873657918"
+    "hash_code_list_img": "1633989569"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/grind_gg_img_4500_it.json",
-    "id_item": "grind_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/meet_gg_img_4500_it.json",
+    "id_item": "meet_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "grind",
+    "english": "meet",
     "list_mean": [
-      "công việc buồn tẻ",
-      "công việc cực nhọc",
-      "học trò gạo",
-      "lớp học rút",
-      "tiếng cót két",
-      "tiếng kêu cút kít",
-      "cuộc đua ngựa nhảy rào",
-      "đi bộ rảo bước",
-      "học gạo",
-      "làm cho trơn",
-      "mài cho bén",
-      "mài cho sắc",
-      "xay thành bột",
-      "mài kiến cho mờ",
-      "mài ngọc",
-      "mài vật đúc",
-      "nghiền nát"
+      "thích đáng",
+      "thích hợp",
+      "cuộc hội hợp",
+      "điểm tiếp xúc",
+      "nơi hẹn gặp nhau để đi săn",
+      "đi đón",
+      "đi rước",
+      "đương đầu",
+      "gặp",
+      "gặp gở",
+      "hội ngộ",
+      "liều"
     ],
-    "cau_en": "there were sweaty bodies everywhere bumping and grinding to the music",
-    "cau_vn": "Có những cơ thể ướt đẫm mồ hôi ở khắp mọi nơi va chạm và nghiền nát âm nhạc",
-    "hash_code_list_mean": "-1208356580",
+    "cau_en": "this policy is doing nothing to meet the needs of women",
+    "cau_vn": "Chính sách này là không làm gì để đáp ứng nhu cầu của phụ nữ",
+    "hash_code_list_mean": "2146666263",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809436633_8cac028956_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809436633_19c116fde1_o.png",
-        "id_image": "grind_1407905"
+        "link_thumb": "https://live.staticflickr.com/65535/51809463388_2e05d902ac_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809463388_ed6254dae4_o.png",
+        "id_image": "meet_4458775"
       }
     ],
-    "hash_code_list_img": "1687079443"
+    "hash_code_list_img": "878375574"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/formula_gg_img_4500_it.json",
-    "id_item": "formula_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/quarrel_gg_img_4500_it.json",
+    "id_item": "quarrel_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "formula",
+    "english": "quarrel",
     "list_mean": [
-      "cách thức",
-      "công thức",
-      "thể thức"
+      "dao cắt hột xoàn",
+      "dao chạm",
+      "sự cải lẩy",
+      "thứ tên có nỏ đầu vuông",
+      "dao đục",
+      "cải lẩy"
     ],
-    "cau_en": "the formula for the capacitance of a spherical capacitor",
-    "cau_vn": "công thức cho điện dung của một tụ điện hình cầu",
-    "hash_code_list_mean": "405258158",
+    "cau_en": "she made the mistake of picking a quarrel with John",
+    "cau_vn": "Cô đã phạm sai lầm khi chọn một cuộc cãi vã với John",
+    "hash_code_list_mean": "1869469671",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809429528_fb3606bbb7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809429528_6503e6d6b9_o.png",
-        "id_image": "formula_1702303"
+        "link_thumb": "https://live.staticflickr.com/65535/51809344836_a7e0fdc328_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809344836_21b71c7750_o.png",
+        "id_image": "quarrel_3220652"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809669269_59a5ebc8be_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809669269_6ae24e03da_o.png",
-        "id_image": "formula_3830342"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810051220_527ffaf0c2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810051220_4c97b08641_o.png",
-        "id_image": "formula_407418"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808358777_a19c8cae0f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808358777_08059fa611_o.png",
-        "id_image": "formula_843193"
+        "link_thumb": "https://live.staticflickr.com/65535/51808389702_2a4163d29a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808389702_d856f10917_o.png",
+        "id_image": "quarrel_4763127"
       }
     ],
-    "hash_code_list_img": "712985513"
+    "hash_code_list_img": "2088070182"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/splint_gg_img_4500_it.json",
-    "id_item": "splint_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/extraction_gg_img_4500_it.json",
+    "id_item": "extraction_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "splint",
+    "english": "extraction",
     "list_mean": [
-      "bướu xương",
-      "bó miếng gổ vào xương gãy"
+      "chổ xuất thân",
+      "ép ra",
+      "gốc",
+      "rút ra",
+      "sự lấy",
+      "sự nhổ ra"
     ],
-    "cau_en": "she had to wear splints on her legs",
-    "cau_vn": "Cô phải mặc nẹp trên chân",
-    "hash_code_list_mean": "-1425789024",
+    "cau_en": "a worker of Polish extraction",
+    "cau_vn": "Một công nhân khai thác Ba Lan",
+    "hash_code_list_mean": "1620961334",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809468148_51be96558e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809468148_6b79275ff1_o.png",
-        "id_image": "splint_2209843"
+        "link_thumb": "https://live.staticflickr.com/65535/51809455108_d7bce97fff_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809455108_c341da4d5a_o.png",
+        "id_image": "extraction_1338980"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809468123_29ec16e7fd_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809468123_b66f69cebf_o.png",
-        "id_image": "splint_3974932"
+        "link_thumb": "https://live.staticflickr.com/65535/51809340191_6803f3e3f7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809340191_ca9d35ba59_o.png",
+        "id_image": "extraction_1386879"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809353331_b76ab16a4c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809353331_28c530b6b5_o.png",
-        "id_image": "splint_6408760"
+        "link_thumb": "https://live.staticflickr.com/65535/51809340166_6915ab29bc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809340166_b0d1f645a9_o.png",
+        "id_image": "extraction_1486196"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809340136_6c12fec146_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809340136_4e8d006dbb_o.png",
+        "id_image": "extraction_6315470"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809695369_b8592747b5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809695369_235fe1d146_o.png",
+        "id_image": "extraction_6348266"
       }
     ],
-    "hash_code_list_img": "-2068148823"
+    "hash_code_list_img": "1667188564"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/footage_gg_img_4500_it.json",
-    "id_item": "footage_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/enhance_gg_img_4500_it.json",
+    "id_item": "enhance_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "footage",
+    "english": "enhance",
     "list_mean": [
-      "bề dài",
-      "chiều dài",
-      "sự đo bề dài"
+      "nâng cao",
+      "tăng gia",
+      "thêm lên",
+      "làm tăng thêm",
+      "lên giá"
     ],
-    "cau_en": "the square footage of the room",
-    "cau_vn": "các cảnh quay vuông của căn phòng",
-    "hash_code_list_mean": "-1324689960",
+    "cau_en": "his refusal does nothing to enhance his reputation",
+    "cau_vn": "Từ chối của anh ta không làm gì để nâng cao danh tiếng của mình",
+    "hash_code_list_mean": "-469326050",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808361342_9572356094_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808361342_5ced8eef37_o.png",
-        "id_image": "footage_2009811"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809432068_94e7884b86_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809432068_da75ed378a_o.png",
-        "id_image": "footage_4427659"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809317016_c7649ec7e8_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809317016_cbe068de21_o.png",
-        "id_image": "footage_4427891"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809432013_6e24f2cd84_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809432013_2a6d9d6d38_o.png",
-        "id_image": "footage_4428008"
+        "link_thumb": "https://live.staticflickr.com/65535/51810055490_35f9c6a00b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810055490_dbb5e4e35d_o.png",
+        "id_image": "enhance_2620957"
       }
     ],
-    "hash_code_list_img": "-451533658"
+    "hash_code_list_img": "1070050325"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/haze_gg_img_4500_it.json",
-    "id_item": "haze_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/collaborate_gg_img_4500_it.json",
+    "id_item": "collaborate_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "haze",
+    "english": "collaborate",
     "list_mean": [
-      "có hơi mù",
-      "hơi bốc lên",
-      "sự mơ hồ",
-      "sương mù",
-      "sương mù buổi sáng",
-      "bao bọc sương mù",
-      "mưa phùn"
+      "công tác",
+      "hợp tác"
     ],
-    "cau_en": "the cold air has no pollution and very little haze",
-    "cau_vn": "Không khí lạnh không có ô nhiễm và rất ít khói mù",
-    "hash_code_list_mean": "-1536652466",
+    "cau_en": "he collaborated with a distinguished painter on the designs",
+    "cau_vn": "Ông hợp tác với một họa sĩ nổi bật trên các thiết kế",
+    "hash_code_list_mean": "320148133",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809457658_02af214db2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809457658_001ab1f9d0_o.png",
-        "id_image": "haze_3104495"
+        "link_thumb": "https://live.staticflickr.com/65535/51808367727_e4415cbd11_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808367727_4f96482da1_o.png",
+        "id_image": "collaborate_2191420"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809342821_438828e00b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809342821_1e422e1c36_o.png",
-        "id_image": "haze_6236517"
+        "link_thumb": "https://live.staticflickr.com/65535/51809322741_36b905a948_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809322741_0d24a434ed_o.png",
+        "id_image": "collaborate_4133366"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809437918_df9ac3325b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809437918_083e759479_o.png",
+        "id_image": "collaboration_2721208"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810059385_e236cab01e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810059385_b5f1b1a339_o.png",
+        "id_image": "collaboration_2861698"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808367477_f6287858d7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808367477_145e374aa3_o.png",
+        "id_image": "collaboration_5541899"
       }
     ],
-    "hash_code_list_img": "1042826704"
+    "hash_code_list_img": "1201939180"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/respect_gg_img_4500_it.json",
-    "id_item": "respect_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/capitalism_gg_img_4500_it.json",
+    "id_item": "capitalism_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "respect",
+    "english": "capitalism",
     "list_mean": [
-      "mối quan hệ",
-      "sự liên quan",
-      "về mọi phương diện",
-      "sự tôn kính",
-      "có quan hệ",
-      "kính mến",
-      "tôn trọng"
+      "chủ nghĩa tư bản"
     ],
-    "cau_en": "the director had a lot of respect for Douglas as an actor",
-    "cau_vn": "Giám đốc có rất nhiều sự tôn trọng đối với Douglas như một diễn viên",
-    "hash_code_list_mean": "-1938482850",
+    "cau_en": "an era of free-market capitalism",
+    "cau_vn": "một kỷ nguyên của chủ nghĩa tư bản thị trường tự do",
+    "hash_code_list_mean": "363043654",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809705554_caa0e7a62e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809705554_96bed68f79_o.png",
-        "id_image": "respect_2284927"
+        "link_thumb": "https://live.staticflickr.com/65535/51808373397_7766212c51_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808373397_7f6b5c4bfe_o.png",
+        "id_image": "capitalism_1610476"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809705534_f0d23b804c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809705534_eee30c9a1b_o.png",
-        "id_image": "respect_3994210"
+        "link_thumb": "https://live.staticflickr.com/65535/51810065420_dae4913372_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810065420_7bb973bea7_o.png",
+        "id_image": "capitalism_2390223"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810088110_f2136379ae_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810088110_c650f352a3_o.png",
-        "id_image": "respect_4412760"
+        "link_thumb": "https://live.staticflickr.com/65535/51809443568_a0a366790c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809443568_de1c26564f_o.png",
+        "id_image": "capitalism_3053683"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809350996_2a70bdc8e3_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809350996_26c1a3504c_o.png",
-        "id_image": "respect_4960764"
+        "link_thumb": "https://live.staticflickr.com/65535/51809443513_9d6b56d0b5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809443513_3bd4d5b21d_o.png",
+        "id_image": "capitalism_5605798"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809328496_34925a30ff_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809328496_2dc766da6d_o.png",
+        "id_image": "capitalism_6213321"
       }
     ],
-    "hash_code_list_img": "-1049651874"
+    "hash_code_list_img": "-1542218542"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/gummy_gg_img_4500_it.json",
-    "id_item": "gummy_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/examination_gg_img_4500_it.json",
+    "id_item": "examination_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "gummy",
+    "english": "examination",
     "list_mean": [
-      "keo",
-      "có nhiều chất nhựa",
-      "hồ",
-      "dính như gôm",
-      "nhựa"
+      "chất vấn",
+      "kiểm tra",
+      "kỳ thi tuyển",
+      "khám",
+      "khám nghiệm",
+      "khám tổng quát",
+      "khám xét",
+      "lấy khẩu cung",
+      "thẫm vấn"
     ],
-    "cau_en": "a gummy discharge",
-    "cau_vn": "một gummy xả",
-    "hash_code_list_mean": "1264181041",
+    "cau_en": "he scraped through the examinations at the end of his first year",
+    "cau_vn": "anh ta đã bỏ qua các kỳ thi vào cuối năm đầu tiên của mình",
+    "hash_code_list_mean": "-144737534",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809432843_b7eb1f320b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809432843_8d6366258b_o.png",
-        "id_image": "gummy_119510"
+        "link_thumb": "https://live.staticflickr.com/65535/51810049535_f0469b37e7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810049535_811a1bc5ce_o.png",
+        "id_image": "examination_1833857"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808362017_b1c1fbe212_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808362017_3187a673d1_o.png",
-        "id_image": "gummy_452529"
+        "link_thumb": "https://live.staticflickr.com/65535/51809313036_e2ca3410f7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809313036_dcac3e686f_o.png",
+        "id_image": "examination_4482430"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808361997_460115f4e0_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808361997_cea0092706_o.png",
-        "id_image": "gummy_452542"
+        "link_thumb": "https://live.staticflickr.com/65535/51810049595_2dc16c92b2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810049595_28661489a1_o.png",
+        "id_image": "examination_484691"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809427908_e7a3beda9c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809427908_34720b7137_o.png",
+        "id_image": "examination_883984"
       }
     ],
-    "hash_code_list_img": "-1178995669"
+    "hash_code_list_img": "462107138"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/postnatal_gg_img_4500_it.json",
-    "id_item": "postnatal_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/healthy_gg_img_4500_it.json",
+    "id_item": "healthy_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "postnatal",
+    "english": "healthy",
     "list_mean": [
-      "lúc sanh đẻ"
+      "bỗ sức",
+      "cường tráng",
+      "hợp vệ sinh",
+      "khỏe mạnh",
+      "lành mạnh",
+      "sạch sẻ",
+      "tráng kiện"
     ],
-    "cau_en": "postnatal care",
-    "cau_vn": "Chăm sóc hậu sản",
-    "hash_code_list_mean": "393900177",
+    "cau_en": "I feel fit and healthy",
+    "cau_vn": "Tôi cảm thấy khỏe mạnh",
+    "hash_code_list_mean": "175189770",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809333206_812149971d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809333206_5a23e43662_o.png",
-        "id_image": "postnatal_1466253"
+        "link_thumb": "https://live.staticflickr.com/65535/51808386057_743f82a8a6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808386057_14a4b74d01_o.png",
+        "id_image": "healthy_2707368"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810070045_f8199d8dc8_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810070045_1ca867a92c_o.png",
-        "id_image": "postnatal_4215466"
+        "link_thumb": "https://live.staticflickr.com/65535/51809341161_09bb3cc0e6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809341161_ec143184a8_o.png",
+        "id_image": "healthy_706204"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810078470_e8b1955fe9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810078470_faa618d133_o.png",
+        "id_image": "healthy_851514"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809341086_25c5e45249_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809341086_10f75e429e_o.png",
+        "id_image": "healthy_926107"
       }
     ],
-    "hash_code_list_img": "1922772911"
+    "hash_code_list_img": "610647599"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/hygiene_gg_img_4500_it.json",
-    "id_item": "hygiene_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/insolvent_gg_img_4500_it.json",
+    "id_item": "insolvent_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "hygiene",
+    "english": "insolvent",
     "list_mean": [
-      "phép vệ sinh"
+      "phá sản",
+      "trả nợ không nổi",
+      "vở nợ"
     ],
-    "cau_en": "poor standards of food hygiene",
-    "cau_vn": "Tiêu chuẩn kém về vệ sinh thực phẩm",
-    "hash_code_list_mean": "1017855460",
+    "cau_en": "the company became insolvent",
+    "cau_vn": "Công ty trở nên mất khả năng thanh toán",
+    "hash_code_list_mean": "-251384920",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809325816_0bc1b3a5de_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809325816_0f83b8c22c_o.png",
-        "id_image": "hygiene_2720295"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810062585_54d481acac_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810062585_8d6a17e149_o.png",
-        "id_image": "hygiene_2927564"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809680849_40992fa524_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809680849_7c98557ab7_o.png",
-        "id_image": "hygiene_2949990"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809325711_01deb08b7a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809325711_e55b19f69c_o.png",
-        "id_image": "hygiene_3035083"
+        "link_thumb": "https://live.staticflickr.com/65535/51810082470_146a38b232_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810082470_8243d16c9c_o.png",
+        "id_image": "insolvent_2719761"
       }
     ],
-    "hash_code_list_img": "-848852763"
+    "hash_code_list_img": "1725382220"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/esoteric_gg_img_4500_it.json",
-    "id_item": "esoteric_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/feminist_gg_img_4500_it.json",
+    "id_item": "feminist_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "esoteric",
+    "english": "feminist",
     "list_mean": [
-      "bí giáo",
-      "bí mật",
-      "bí truyền",
-      "thuộc về bí mật",
-      "thuộc về bí truyền"
+      "người thích đàn bà"
     ],
-    "cau_en": "esoteric philosophical debates",
-    "cau_vn": "Cuộc tranh luận triết học bí truyền",
-    "hash_code_list_mean": "1674823340",
+    "cau_en": "feminist literature",
+    "cau_vn": "Văn học nữ quyền",
+    "hash_code_list_mean": "-100015904",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809670114_a376da986b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809670114_81dcc87d5d_o.png",
-        "id_image": "esoteric_1679082"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810051915_afcecf61b2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810051915_f11a005096_o.png",
-        "id_image": "esoteric_5318693"
+        "link_thumb": "https://live.staticflickr.com/65535/51810069105_a987c84771_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810069105_6f2a42c61b_o.png",
+        "id_image": "feminist_1425419"
       }
     ],
-    "hash_code_list_img": "1317606823"
+    "hash_code_list_img": "607370483"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/responsive_gg_img_4500_it.json",
-    "id_item": "responsive_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/kind_gg_img_4500_it.json",
+    "id_item": "kind_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "responsive",
+    "english": "kind",
     "list_mean": [
-      "dể cảm",
-      "đáp lại",
-      "trả lời"
+      "âu yếm",
+      "có hảo tâm",
+      "có lòng tốt",
+      "hảo ý",
+      "tốt quá",
+      "tử tế",
+      "đa tình",
+      "dể thương",
+      "bản tính",
+      "chủng loại",
+      "giống",
+      "hạng",
+      "loài",
+      "loại",
+      "thứ",
+      "phẫm chất",
+      "tính chất"
     ],
-    "cau_en": "a flexible service that is responsive to changing social and economic patterns",
-    "cau_vn": "Một dịch vụ linh hoạt đáp ứng các mô hình kinh tế xã hội thay đổi",
-    "hash_code_list_mean": "1274443994",
+    "cau_en": "she was a good, kind woman",
+    "cau_vn": "cô ấy là một người phụ nữ tốt bụng",
+    "hash_code_list_mean": "-659443323",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808395352_5059824bf6_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808395352_eeb55a981b_o.png",
-        "id_image": "responsive_2460232"
+        "link_thumb": "https://live.staticflickr.com/65535/51809327386_3daf61d7b4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809327386_6ce368c5c8_o.png",
+        "id_image": "kind_5479795"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809350516_bc337c9254_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809350516_14550583e2_o.png",
-        "id_image": "responsive_5746567"
+        "link_thumb": "https://live.staticflickr.com/65535/51809442358_cd20af1807_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809442358_ed56255430_o.png",
+        "id_image": "kind_5661053"
       }
     ],
-    "hash_code_list_img": "-231952987"
+    "hash_code_list_img": "1263458249"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/slash_gg_img_4500_it.json",
-    "id_item": "slash_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/row_gg_img_4500_it.json",
+    "id_item": "row_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "slash",
+    "english": "row",
     "list_mean": [
-      "khía nhọn ở bộ phận cây",
-      "vết rạch thịt",
-      "chỉ trích ác liệt",
-      "phê bình",
-      "quất bằng roi ngựa",
-      "rạch bằng dao",
-      "rạch đường dọc"
+      "cuộc cải nhau",
+      "dãy",
+      "hàng",
+      "hàng cây",
+      "hàng ghế",
+      "lời khiển trách",
+      "lời la mắng",
+      "luống đất",
+      "chèo xuồng",
+      "chở bằng thuyền",
+      "đi chơi bằng xuồng"
     ],
-    "cau_en": "sentence breaks are highlighted by slashes",
-    "cau_vn": "Phá vỡ câu được tô sáng bởi dấu gạch chéo",
-    "hash_code_list_mean": "-1273205477",
+    "cau_en": "out in the bay a small figure was rowing a rubber dinghy",
+    "cau_vn": "trong vịnh một hình nhỏ đang chèo một xuồng cao su",
+    "hash_code_list_mean": "-504033977",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809689749_af700b7dec_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809689749_84341d3074_o.png",
-        "id_image": "slash_3602460"
+        "link_thumb": "https://live.staticflickr.com/65535/51809340606_53058f05be_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809340606_43bb642d28_o.png",
+        "id_image": "row_3603654"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809334621_7f32cfb21f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809334621_8a4306b5fe_o.png",
-        "id_image": "slash_4334081"
+        "link_thumb": "https://live.staticflickr.com/65535/51810078015_21631db3e5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810078015_8b4311f248_o.png",
+        "id_image": "row_391242"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809340656_aa7245b1fb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809340656_a0419cd7ba_o.png",
+        "id_image": "row_708627"
       }
     ],
-    "hash_code_list_img": "224535268"
+    "hash_code_list_img": "1861805367"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/divorce_gg_img_4500_it.json",
-    "id_item": "divorce_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/batter_gg_img_4500_it.json",
+    "id_item": "batter_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "divorce",
+    "english": "batter",
     "list_mean": [
-      "ly hôn",
-      "ly dị",
-      "sự tuyệt giao",
-      "vợ chồng bỏ nhau",
-      "chia rẻ",
-      "ly dị",
-      "tuyên bố ly dị",
-      "tuyệt giao"
+      "bột nhồi",
+      "bắn đại bác",
+      "đánh bể",
+      "đánh đập",
+      "làm móp"
     ],
-    "cau_en": "we knew how to divorce an issue from an individual",
-    "cau_vn": "Chúng tôi biết cách ly hôn một vấn đề từ một cá nhân",
-    "hash_code_list_mean": "-1063501585",
+    "cau_en": "he was battered and falsely imprisoned by the officers",
+    "cau_vn": "anh ta bị vùi dập và bị giam cầm bởi các sĩ quan",
+    "hash_code_list_mean": "-649536876",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809312556_13c449c8cd_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809312556_4989befd08_o.png",
-        "id_image": "divorce_1612932"
+        "link_thumb": "https://live.staticflickr.com/65535/51810049500_0c66327b8b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810049500_9a23528ac5_o.png",
+        "id_image": "batter_1867111"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809312531_28fcd06bca_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809312531_b643a3ed09_o.png",
-        "id_image": "divorce_4215289"
+        "link_thumb": "https://live.staticflickr.com/65535/51810049565_5267ba013e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810049565_c44d3af02d_o.png",
+        "id_image": "batter_209561"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810049155_324157f4a0_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810049155_2c2501ea87_o.png",
-        "id_image": "divorce_538223"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809312471_018415c3c1_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809312471_d4311a1ecd_o.png",
-        "id_image": "divorce_6333351"
+        "link_thumb": "https://live.staticflickr.com/65535/51809667874_8e22812463_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809667874_9961e6bf5f_o.png",
+        "id_image": "batter_221847"
       }
     ],
-    "hash_code_list_img": "2096306931"
+    "hash_code_list_img": "-1849135043"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/paid_gg_img_4500_it.json",
-    "id_item": "paid_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/dislike_gg_img_4500_it.json",
+    "id_item": "dislike_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "paid",
+    "english": "dislike",
     "list_mean": [
-      "trả rồi"
+      "không ưa",
+      "ghét người nào",
+      "không thích",
+      "gớm",
+      "tởm"
     ],
-    "cau_en": "a one-month paid vacation",
-    "cau_vn": "một kỳ nghỉ một tháng",
-    "hash_code_list_mean": "-1402670684",
+    "cau_en": "they had taken a dislike to each other",
+    "cau_vn": "họ đã không thích nhau",
+    "hash_code_list_mean": "2131724006",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809337106_053bb4dec5_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809337106_fd0d0d3f7c_o.png",
-        "id_image": "paid_267354"
+        "link_thumb": "https://live.staticflickr.com/65535/51809430718_b04afb56b1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809430718_692044a833_o.png",
+        "id_image": "dislike_2665170"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809337066_b12cfacbd0_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809337066_d7f4980bc4_o.png",
-        "id_image": "paid_782085"
+        "link_thumb": "https://live.staticflickr.com/65535/51810052290_62e002ebb3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810052290_aca40dfb53_o.png",
+        "id_image": "dislike_5638824"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808360027_8144f958d2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808360027_1278eea0f8_o.png",
+        "id_image": "dislike_951451"
       }
     ],
-    "hash_code_list_img": "-868438354"
+    "hash_code_list_img": "1056591614"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/discord_gg_img_4500_it.json",
-    "id_item": "discord_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/grateful_gg_img_4500_it.json",
+    "id_item": "grateful_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "discord",
+    "english": "grateful",
     "list_mean": [
-      "không điều hòa",
-      "mối bất hòa",
-      "sự chia rẻ",
-      "tiếng không đúng điệu",
-      "bất hòa",
-      "không điều hòa",
-      "trái nhau"
+      "biết ơn",
+      "dể chịu"
     ],
-    "cau_en": "a prosperous family who showed no signs of discord",
-    "cau_vn": "một gia đình thịnh vượng không có dấu hiệu bất hòa",
-    "hash_code_list_mean": "1237881265",
+    "cau_en": "I'm very grateful to you for all your help",
+    "cau_vn": "Tôi rất biết ơn bạn vì tất cả sự giúp đỡ của bạn",
+    "hash_code_list_mean": "-175906013",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808362087_1740b227c6_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808362087_7e47ba98fe_o.png",
-        "id_image": "discord_2111310"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809672459_5f3b37d4eb_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809672459_fe23cb456d_o.png",
-        "id_image": "discord_356060"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810054200_5d28423466_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810054200_1205d174c1_o.png",
-        "id_image": "discord_3767306"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809432773_ce22f99866_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809432773_31c7c04160_o.png",
-        "id_image": "discord_4053305"
+        "link_thumb": "https://live.staticflickr.com/65535/51809679069_5369702771_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809679069_4dbf2342f6_o.png",
+        "id_image": "grateful_4245665"
       }
     ],
-    "hash_code_list_img": "-2030066684"
+    "hash_code_list_img": "556080738"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/sabbath_gg_img_4500_it.json",
-    "id_item": "sabbath_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/merchant_gg_img_4500_it.json",
+    "id_item": "merchant_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "sabbath",
+    "english": "merchant",
     "list_mean": [
-      "ngày chúa nhựt",
-      "ngày nghĩ cuối tuần"
+      "tàu buôn",
+      "thương thuyền",
+      "một người",
+      "người buôn bán",
+      "người buôn bán sĩ"
     ],
-    "cau_en": "we observe the Sabbath as God has commanded",
-    "cau_vn": "Chúng tôi quan sát ngày Sa-bát vì Chúa đã chỉ huy",
-    "hash_code_list_mean": "-20303796",
+    "cau_en": "the growth of the merchant classes",
+    "cau_vn": "sự phát triển của các lớp thương gia",
+    "hash_code_list_mean": "604297108",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810075505_e2acc3c399_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810075505_f0cceb22ae_o.png",
-        "id_image": "sabbath_5443029"
+        "link_thumb": "https://live.staticflickr.com/65535/51809701409_a38dbfcaa4_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809701409_926723f4c8_o.png",
+        "id_image": "merchant_1100474"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810083945_933164a965_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810083945_4670e27207_o.png",
+        "id_image": "merchant_2104181"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810083920_801c44cc14_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810083920_2bff45452a_o.png",
+        "id_image": "merchant_4016132"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809461233_03a1a02258_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809461233_fa5ac72e96_o.png",
+        "id_image": "merchant_4633140"
       }
     ],
-    "hash_code_list_img": "1267381015"
+    "hash_code_list_img": "957397956"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/wood_gg_img_4500_it.json",
+    "id_item": "wood_gg_img_4500_it",
+    "id_album": "570943368",
+    "english": "wood",
+    "list_mean": [
+      "cây cối trong rừng",
+      "gỗ",
+      "rừng",
+      "thùng đựng rượu"
+    ],
+    "cau_en": "a thick hedge divided the wood from the field",
+    "cau_vn": "một hàng rào dày chia gỗ từ cánh đồng",
+    "hash_code_list_mean": "1448556418",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810071930_02e9b48e5f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810071930_0b6c8bc605_o.png",
+        "id_image": "wood_2153138"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809450053_2d2b012539_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809450053_1046686522_o.png",
+        "id_image": "wood_878460"
+      }
+    ],
+    "hash_code_list_img": "1138204691"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mutation_gg_img_4500_it.json",
+    "id_item": "mutation_gg_img_4500_it",
+    "id_album": "570943368",
+    "english": "mutation",
+    "list_mean": [
+      "sự biến chuyển",
+      "sự biến đổi",
+      "sự chuyển âm",
+      "sự chuyển điệu",
+      "sự hay thay đổi",
+      "sự thay đổi"
+    ],
+    "cau_en": "the mutation of cooking into a form of show business",
+    "cau_vn": "Đột biến nấu ăn thành một hình thức kinh doanh chương trình",
+    "hash_code_list_mean": "-382162109",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809685449_87aa9d0242_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809685449_e806b95972_o.png",
+        "id_image": "mutation_2453631"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809685399_83df1cee94_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809685399_5e284d81f5_o.png",
+        "id_image": "mutation_5264883"
+      }
+    ],
+    "hash_code_list_img": "-168680907"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/downgrade_gg_img_4500_it.json",
+    "id_item": "downgrade_gg_img_4500_it",
+    "id_album": "570943368",
+    "english": "downgrade",
+    "list_mean": [
+      "hết thời",
+      "mạt vận",
+      "xuống dốc",
+      "nghèo mạt",
+      "dốc xuống",
+      "suy đồi",
+      "suy đồi"
+    ],
+    "cau_en": "downgrades by debt-rating agencies outnumber upgrades by five to one",
+    "cau_vn": "hạ cấp bởi các cơ quan xếp hạng nợ vượt trội hơn nâng mức năm đến một",
+    "hash_code_list_mean": "1219346040",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809307561_1d338c7f7c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809307561_037bd25ac6_o.png",
+        "id_image": "downgrade_2921173"
+      }
+    ],
+    "hash_code_list_img": "1724067380"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/test_gg_img_4500_it.json",
+    "id_item": "test_gg_img_4500_it",
+    "id_album": "570943368",
+    "english": "test",
+    "list_mean": [
+      "cuộc thi",
+      "sự khảo thí",
+      "sự thử",
+      "thí nghiệm",
+      "thí nghiệm",
+      "thử"
+    ],
+    "cau_en": "this range has not been tested on animals",
+    "cau_vn": "Phạm vi này đã không được thử nghiệm trên động vật",
+    "hash_code_list_mean": "-603879828",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809466168_9ddf057b2b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809466168_5bb34f6880_o.png",
+        "id_image": "test_2484611"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809466143_997824c920_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809466143_02163f5f68_o.png",
+        "id_image": "test_2490313"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808396277_7b96ee2545_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808396277_3a64fdf5db_o.png",
+        "id_image": "test_2725724"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809705999_c043ff7af3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809705999_95b53fa23e_o.png",
+        "id_image": "test_3335843"
+      }
+    ],
+    "hash_code_list_img": "293666023"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/oral_gg_img_4500_it.json",
+    "id_item": "oral_gg_img_4500_it",
+    "id_album": "570943368",
+    "english": "oral",
+    "list_mean": [
+      "bằng lời nói",
+      "miệng",
+      "nói miệng",
+      "thuộc về miệng"
+    ],
+    "cau_en": "they had reached an oral agreement",
+    "cau_vn": "họ đã đạt được một thỏa thuận bằng miệng",
+    "hash_code_list_mean": "1176240790",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809459463_213d52a4e6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809459463_5e19310583_o.png",
+        "id_image": "oral_1488179"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808389552_0d3122cd42_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808389552_ffcc76724f_o.png",
+        "id_image": "oral_2037310"
+      }
+    ],
+    "hash_code_list_img": "-1293742302"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/wrench_gg_img_4500_it.json",
+    "id_item": "wrench_gg_img_4500_it",
+    "id_album": "570943368",
+    "english": "wrench",
+    "list_mean": [
+      "cái mỏ lết",
+      "đau đớn vì chia rẻ",
+      "đau đớn vì xa nhau",
+      "nổi khổ sở",
+      "sự vặn mạnh",
+      "cướp lấy",
+      "đoạt lấy",
+      "giựt lấy",
+      "vặn mạnh",
+      "làm sai nghĩa"
+    ],
+    "cau_en": "Casey grabbed the gun and wrenched it upward from my hand",
+    "cau_vn": "Casey nắm lấy khẩu súng và vặn vẹo nó lên từ tay tôi",
+    "hash_code_list_mean": "1639067239",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808377612_29ffa0bf71_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808377612_310364248e_o.png",
+        "id_image": "wrench_1768196"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809447813_d40b5ff458_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809447813_0826f5412e_o.png",
+        "id_image": "wrench_2137963"
+      }
+    ],
+    "hash_code_list_img": "1046511230"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mix_gg_img_4500_it.json",
+    "id_item": "mix_gg_img_4500_it",
+    "id_album": "570943368",
+    "english": "mix",
+    "list_mean": [
+      "pha",
+      "đầu óc rối xòe",
+      "sự hòa lộn",
+      "sự pha trộn",
+      "trộn nhiều thứ",
+      "sự trộn",
+      "sự trộn lộn",
+      "tư tưởng lộn xộn",
+      "trộn lẫn lộn",
+      "hòa lộn",
+      "lộn với việc khác",
+      "pha lộn",
+      "pha trộn kim thuộc",
+      "trộn lộn"
+    ],
+    "cau_en": "peppercorns are sometimes mixed with other spices for a table condiment",
+    "cau_vn": "Peppercorns đôi khi được trộn với các loại gia vị khác cho một gia vị bàn",
+    "hash_code_list_mean": "-788736457",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808385347_8b40deefdf_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808385347_89cc1a20b1_o.png",
+        "id_image": "mixed_1214379"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809340426_b4786917d1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809340426_06aa7bd790_o.png",
+        "id_image": "mix_2289953"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810077720_1477f43738_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810077720_2ed8443dfe_o.png",
+        "id_image": "mix_5376878"
+      }
+    ],
+    "hash_code_list_img": "-760761342"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/prevention_gg_img_4500_it.json",
+    "id_item": "prevention_gg_img_4500_it",
+    "id_album": "570943368",
+    "english": "prevention",
+    "list_mean": [
+      "sự ngăn cản",
+      "sự phòng ngừa"
+    ],
+    "cau_en": "crime prevention",
+    "cau_vn": "Phòng chống tội phạm",
+    "hash_code_list_mean": "1889881552",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809326821_26cc17f709_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809326821_2b77f0a24f_o.png",
+        "id_image": "prevention_2869041"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808371502_b79632b25a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808371502_d3f3bff716_o.png",
+        "id_image": "prevention_4413165"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808371462_4181e4bfc0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808371462_27cdf9f4c3_o.png",
+        "id_image": "prevention_5714929"
+      }
+    ],
+    "hash_code_list_img": "1695990183"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/bribe_gg_img_4500_it.json",
+    "id_item": "bribe_gg_img_4500_it",
+    "id_album": "570943368",
+    "english": "bribe",
+    "list_mean": [
+      "của hối lộ",
+      "tiền hối lộ",
+      "đút lót"
+    ],
+    "cau_en": "lawmakers were caught accepting bribes to bring in legalized gambling",
+    "cau_vn": "Các nhà lập pháp đã bị bắt được chấp nhận hối lộ để mang lại cho việc đánh bạc hợp pháp",
+    "hash_code_list_mean": "1738787287",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808360862_e87e098e09_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808360862_3e36ae1680_o.png",
+        "id_image": "bribery_2631520"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809431558_d3e7bee940_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809431558_e4750a407e_o.png",
+        "id_image": "bribery_5434240"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809671374_86ca22aea0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809671374_a17c4dc79c_o.png",
+        "id_image": "bribe_3830650"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809671344_b5e95b20e7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809671344_6a9e729c3d_o.png",
+        "id_image": "bribe_5291764"
+      }
+    ],
+    "hash_code_list_img": "-135511572"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/verdict_gg_img_4500_it.json",
+    "id_item": "verdict_gg_img_4500_it",
+    "id_album": "570943368",
+    "english": "verdict",
+    "list_mean": [
+      "sự phán quyết",
+      "sự quyết định"
+    ],
+    "cau_en": "the jury returned a verdict of ‘not guilty.’",
+    "cau_vn": "bồi thẩm đoàn đã trả lại một bản án 'không có tội.'",
+    "hash_code_list_mean": "-1921968164",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809346441_b150532dd3_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809346441_b6c6661fb0_o.png",
+        "id_image": "verdict_2861325"
+      }
+    ],
+    "hash_code_list_img": "658645414"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/marble_gg_img_4500_it.json",
+    "id_item": "marble_gg_img_4500_it",
+    "id_album": "570943368",
+    "english": "marble",
+    "list_mean": [
+      "đồ chạm",
+      "làm có vân như cẩm thạch"
+    ],
+    "cau_en": "I thought she'd lost her marbles, asking a question like that",
+    "cau_vn": "Tôi nghĩ rằng cô ấy đã mất những viên bi của mình, đặt câu hỏi như thế",
+    "hash_code_list_mean": "-1277358299",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810060695_88ca3c7822_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810060695_8c4b724f3d_o.png",
+        "id_image": "marble_4455509"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809438853_ffd5b36109_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809438853_5a19779892_o.png",
+        "id_image": "marble_4776074"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808368642_b998155a99_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808368642_ea64ab7bef_o.png",
+        "id_image": "marble_4785406"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810060545_f52fe42dc5_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810060545_f07f20cf58_o.png",
+        "id_image": "marble_6365793"
+      }
+    ],
+    "hash_code_list_img": "391219885"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/eject_gg_img_4500_it.json",
+    "id_item": "eject_gg_img_4500_it",
+    "id_album": "570943368",
+    "english": "eject",
+    "list_mean": [
+      "bài tiết",
+      "cách chức",
+      "đuổi ra",
+      "tống ra",
+      "trục xuất"
+    ],
+    "cau_en": "many types of rock are ejected from volcanoes as solid, fragmentary material",
+    "cau_vn": "Nhiều loại đá được đẩy ra từ núi lửa như vật liệu phân mảnh, rắn",
+    "hash_code_list_mean": "807152851",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808372112_ff7758c3a0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808372112_b27851cb0e_o.png",
+        "id_image": "eject_183624"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809327401_9f563a04dd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809327401_514deffe37_o.png",
+        "id_image": "eject_5869939"
+      }
+    ],
+    "hash_code_list_img": "-2042881724"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/factory_gg_img_4500_it.json",
+    "id_item": "factory_gg_img_4500_it",
+    "id_album": "570943368",
+    "english": "factory",
+    "list_mean": [
+      "hảng",
+      "nơi chế tạo",
+      "phân xưởng",
+      "văn phòng công ty",
+      "xưởng",
+      "xưởng chế tạo"
+    ],
+    "cau_en": "he is chaplain to the British factory at St. Petersburg",
+    "cau_vn": "Ông là Chaplain đến nhà máy Anh tại St. Petersburg",
+    "hash_code_list_mean": "1936432303",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810075015_888dc46483_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810075015_5f42da47c8_o.png",
+        "id_image": "factory_224584"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809693234_3494631f2e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809693234_43e42cc625_o.png",
+        "id_image": "factory_307132"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810074985_ff2c97e9de_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810074985_c1716d6e59_o.png",
+        "id_image": "factory_315251"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809452788_a8b264fa74_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809452788_2e881a6536_o.png",
+        "id_image": "factory_858270"
+      }
+    ],
+    "hash_code_list_img": "128216654"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/mausoleum_gg_img_4500_it.json",
+    "id_item": "mausoleum_gg_img_4500_it",
+    "id_album": "570943368",
+    "english": "mausoleum",
+    "list_mean": [
+      "lăng tẩm"
+    ],
+    "cau_en": "the cathedral was built in 1517 as a royal mausoleum",
+    "cau_vn": "Nhà thờ được xây dựng vào năm 1517 như một lăng mộ hoàng gia",
+    "hash_code_list_mean": "307966497",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808364347_26da0eeb95_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808364347_011ec08c58_o.png",
+        "id_image": "mausoleum_1450725"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809674539_4c7dbb780d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809674539_af3b750e63_o.png",
+        "id_image": "mausoleum_2457978"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809674489_7e2ea08ebe_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809674489_4fe4375158_o.png",
+        "id_image": "mausoleum_6000988"
+      }
+    ],
+    "hash_code_list_img": "1307389034"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/hygienic_gg_img_4500_it.json",
+    "id_item": "hygienic_gg_img_4500_it",
+    "id_album": "570943368",
+    "english": "hygienic",
+    "list_mean": [
+      "thuộc về vệ sinh",
+      "vệ sinh",
+      "vệ sinh học"
+    ],
+    "cau_en": "hygienic conditions",
+    "cau_vn": "Điều kiện vệ sinh",
+    "hash_code_list_mean": "1740071078",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809325646_2fbeae5f90_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809325646_39a3c48380_o.png",
+        "id_image": "hygienic_247592"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809440638_6a7c1199fb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809440638_e7c421656e_o.png",
+        "id_image": "hygienic_339976"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810062380_7b9a8f328f_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810062380_5a820ef23d_o.png",
+        "id_image": "hygienic_343815"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810062355_8cb67f14ac_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810062355_aaa2fef861_o.png",
+        "id_image": "hygienic_3663434"
+      }
+    ],
+    "hash_code_list_img": "-913792304"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/klaxon_gg_img_4500_it.json",
+    "id_item": "klaxon_gg_img_4500_it",
+    "id_album": "570943368",
+    "english": "klaxon",
+    "list_mean": [
+      "còi",
+      "kèn"
+    ],
+    "cau_en": "the tug blew its klaxon three times",
+    "cau_vn": "The Tug Blew Klaxon ba lần",
+    "hash_code_list_mean": "98849748",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809681144_17e300d9a6_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809681144_4ecc132496_o.png",
+        "id_image": "klaxon_5759720"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809681099_11aa14d4a0_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809681099_e11d71b69f_o.png",
+        "id_image": "klaxon_6344589"
+      }
+    ],
+    "hash_code_list_img": "358692914"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/football_gg_img_4500_it.json",
+    "id_item": "football_gg_img_4500_it",
+    "id_album": "570943368",
+    "english": "football",
+    "list_mean": [
+      "bóng đá",
+      "môn dả cầu",
+      "môn chơi banh ở mỹ",
+      "môn túc cầu ở mỹ"
+    ],
+    "cau_en": "whose fingers would we prefer to have on America's nuclear football?",
+    "cau_vn": "Những ngón tay của ai sẽ muốn có bóng đá hạt nhân của nước Mỹ?",
+    "hash_code_list_mean": "1713038879",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809671634_8e0f583b78_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809671634_e3085ff476_o.png",
+        "id_image": "football_124807"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809671604_82d7951d3b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809671604_b0af13e1e5_o.png",
+        "id_image": "football_178127"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809316891_6d24d53a4d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809316891_aef0915973_o.png",
+        "id_image": "football_3116258"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809671589_1057e7fed9_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809671589_0c42ed1b93_o.png",
+        "id_image": "football_684044"
+      }
+    ],
+    "hash_code_list_img": "-2023280653"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/chord_gg_img_4500_it.json",
+    "id_item": "chord_gg_img_4500_it",
+    "id_album": "570943368",
+    "english": "chord",
+    "list_mean": [
+      "dây nhau",
+      "cuống nhau",
+      "hòa âm"
+    ],
+    "cau_en": "the entire swing session is masterfully chorded by the Duke on piano",
+    "cau_vn": "Toàn bộ phiên swing được hợp âm hoàn toàn bởi Duke trên Piano",
+    "hash_code_list_mean": "-1459980737",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810044585_86637065ea_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810044585_60c96e0042_o.png",
+        "id_image": "chord_3355143"
+      }
+    ],
+    "hash_code_list_img": "484728375"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/professional_gg_img_4500_it.json",
@@ -880,486 +1288,94 @@
         "id_image": "professional_4832775"
       }
     ],
-    "hash_code_list_img": "1132584407"
+    "hash_code_list_img": "1099221844"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/treasure_gg_img_4500_it.json",
-    "id_item": "treasure_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/confident_gg_img_4500_it.json",
+    "id_item": "confident_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "treasure",
+    "english": "confident",
     "list_mean": [
-      "tiền bạc",
-      "quý trọng"
+      "chắc chắn",
+      "liều lỉnh",
+      "quả quyết",
+      "tin chắc"
     ],
-    "cau_en": "my mother gave me the ring and I'll treasure it always",
-    "cau_vn": "Mẹ tôi đã cho tôi chiếc nhẫn và tôi sẽ luôn trân trọng nó",
-    "hash_code_list_mean": "-1559065468",
+    "cau_en": "we require outgoing, confident people able to approach large groups",
+    "cau_vn": "Chúng tôi yêu cầu những người tự tin, tự tin có thể tiếp cận các nhóm lớn",
+    "hash_code_list_mean": "-1096168517",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51810072445_f7df7c0559_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810072445_8d1cc49ea9_o.png",
-        "id_image": "treasure_1862659"
+        "link_thumb": "https://live.staticflickr.com/65535/51808356597_f0286b2249_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808356597_c3bddf4566_o.png",
+        "id_image": "confidence_2037294"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809335536_a85756ed01_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809335536_7c2a254487_o.png",
-        "id_image": "treasure_2642175"
+        "link_thumb": "https://live.staticflickr.com/65535/51810049135_45b217cd21_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810049135_03270d7920_o.png",
+        "id_image": "confidence_5225011"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809690714_ef13b6209d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809690714_c5f2bdbc01_o.png",
-        "id_image": "treasure_2653402"
+        "link_thumb": "https://live.staticflickr.com/65535/51810049110_c7dc4b4b08_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810049110_e4dedf62b3_o.png",
+        "id_image": "confidence_5772957"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808380562_cf8d0f4beb_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808380562_77f8ec08ac_o.png",
-        "id_image": "treasure_6263986"
+        "link_thumb": "https://live.staticflickr.com/65535/51809427303_ea6aff8554_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809427303_df84302989_o.png",
+        "id_image": "confidence_5906152"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808356507_657e2b4ba7_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808356507_c9988324d0_o.png",
+        "id_image": "confident_6000790"
       }
     ],
-    "hash_code_list_img": "-2029759034"
+    "hash_code_list_img": "-1214137019"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/encounter_gg_img_4500_it.json",
-    "id_item": "encounter_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/panic_gg_img_4500_it.json",
+    "id_item": "panic_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "encounter",
+    "english": "panic",
     "list_mean": [
-      "chạm trán",
-      "đụng độ",
-      "gặp gỡ",
-      "sự gặp",
-      "sự giao chiến",
-      "chạm trán",
-      "đụng độ",
-      "gặp"
+      "sự đột nhiên",
+      "sự kinh khũng",
+      "sự thình lình",
+      "làm hoảng hốt",
+      "sợ hải"
     ],
-    "cau_en": "she felt totally unnerved by the encounter",
-    "cau_vn": "Cô cảm thấy hoàn toàn vô định bởi cuộc gặp gỡ",
-    "hash_code_list_mean": "-234478574",
+    "cau_en": "the crowd panicked and stampeded for the exit",
+    "cau_vn": "Đám đông hoảng loạn và đóng dấu cho lối ra",
+    "hash_code_list_mean": "122583221",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809320361_8b3d0984d1_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809320361_6923e40fa4_o.png",
-        "id_image": "encounter_3035316"
+        "link_thumb": "https://live.staticflickr.com/65535/51808380327_0163988b30_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808380327_4d65dd3c15_o.png",
+        "id_image": "panic_1316897"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808365217_c670c7668d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808365217_c4ab902858_o.png",
-        "id_image": "encounter_3232944"
+        "link_thumb": "https://live.staticflickr.com/65535/51809690454_e38e30fda8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809690454_1a83e30ee7_o.png",
+        "id_image": "panic_213324"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810072160_578cce5dae_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810072160_7ae9407212_o.png",
+        "id_image": "panic_4897063"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809450228_94b3a61dcd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809450228_8de7302547_o.png",
+        "id_image": "panic_5266102"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809690359_9dacc29781_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809690359_2da7eb8b4e_o.png",
+        "id_image": "panic_5705051"
       }
     ],
-    "hash_code_list_img": "-2054297162"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/phase_gg_img_4500_it.json",
-    "id_item": "phase_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "phase",
-    "list_mean": [
-      "biến tượng",
-      "giai đoạn"
-    ],
-    "cau_en": "the invertebrate residents of the tundra pass the winter in dormant phase",
-    "cau_vn": "Cư dân động vật không xương sống của Tundra vượt qua mùa đông trong giai đoạn không hoạt động",
-    "hash_code_list_mean": "-2085667726",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809464838_6d629f344e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809464838_4d9ae5d05f_o.png",
-        "id_image": "phase_2116980"
-      }
-    ],
-    "hash_code_list_img": "1305330065"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/follow_gg_img_4500_it.json",
-    "id_item": "follow_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "follow",
-    "list_mean": [
-      "theo",
-      "theo sau",
-      "đi sau",
-      "đuổi theo",
-      "nối nghiệp",
-      "tiếp theo"
-    ],
-    "cau_en": "he has difficulty in following written instructions",
-    "cau_vn": "Anh ấy gặp khó khăn trong việc theo hướng dẫn bằng văn bản",
-    "hash_code_list_mean": "-2084453210",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808361992_ce22f99866_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808361992_b8595bbe1b_o.png",
-        "id_image": "follow_3057912"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809672414_9015358a6d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809672414_0e6620e8ce_o.png",
-        "id_image": "follow_874672"
-      }
-    ],
-    "hash_code_list_img": "584014698"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/stream_gg_img_4500_it.json",
-    "id_item": "stream_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "stream",
-    "list_mean": [
-      "sông",
-      "giòng nước",
-      "suối",
-      "sự chảy nhiều",
-      "vô số",
-      "chảy ào ào",
-      "phất phơ",
-      "rửa cho sạch đất bùn"
-    ],
-    "cau_en": "she sat with tears streaming down her face",
-    "cau_vn": "Cô ngồi với nước mắt chảy xuống mặt",
-    "hash_code_list_mean": "-898962793",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809698484_a49951be68_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809698484_7f3c5050fd_o.png",
-        "id_image": "stream_2368356"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810080715_0e2e949c2a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810080715_23af018a44_o.png",
-        "id_image": "stream_390116"
-      }
-    ],
-    "hash_code_list_img": "-423214395"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/unload_gg_img_4500_it.json",
-    "id_item": "unload_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "unload",
-    "list_mean": [
-      "cất hàng hóa xuống",
-      "lấy đạn ở súng ra",
-      "thả bom"
-    ],
-    "cau_en": "she hadn't finished unloading the car",
-    "cau_vn": "Cô đã không dỡ xe xong",
-    "hash_code_list_mean": "978499181",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810089660_201760274e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810089660_68c376506e_o.png",
-        "id_image": "unload_4651153"
-      }
-    ],
-    "hash_code_list_img": "1525361833"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/fire_gg_img_4500_it.json",
-    "id_item": "fire_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "fire",
-    "list_mean": [
-      "cháy nhà",
-      "chứng sốt",
-      "cuộc hỏa hoạn",
-      "lòng hăng hái",
-      "lửa",
-      "sốt sắng",
-      "sự nổ súng",
-      "bốc lửa",
-      "châm cứu",
-      "đốt cháy",
-      "khuyến khích",
-      "nổ"
-    ],
-    "cau_en": "methane gas is being used to fire bricks at a nearby factory",
-    "cau_vn": "Khí metan đang được sử dụng để chữa cháy gạch tại một nhà máy gần đó",
-    "hash_code_list_mean": "-2018398109",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809326811_0b251150fc_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809326811_80073f0120_o.png",
-        "id_image": "fire_170313"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809441818_78a58412fc_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809441818_e7dab500f7_o.png",
-        "id_image": "fire_394580"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809681804_e5bd6d1bdd_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809681804_de778b0fee_o.png",
-        "id_image": "fire_518609"
-      }
-    ],
-    "hash_code_list_img": "-548321697"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/squeegee_gg_img_4500_it.json",
-    "id_item": "squeegee_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "squeegee",
-    "list_mean": [
-      "cây chổi quét sân tàu",
-      "vật giống cây chổi"
-    ],
-    "cau_en": "squeegee the shower doors while the surfaces are still wet",
-    "cau_vn": "Squeegee cửa tắm trong khi bề mặt vẫn ướt",
-    "hash_code_list_mean": "1141659855",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808396177_8c194c06a3_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808396177_ee8f93b421_o.png",
-        "id_image": "squeegee_2493085"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810088625_5bf23d8955_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810088625_7ba0f88ff3_o.png",
-        "id_image": "squeegee_3216149"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809465958_74b45f0a38_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809465958_b5302a03ee_o.png",
-        "id_image": "squeegee_6419664"
-      }
-    ],
-    "hash_code_list_img": "1651134536"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/tendency_gg_img_4500_it.json",
-    "id_item": "tendency_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "tendency",
-    "list_mean": [
-      "chiều hướng",
-      "khuynh hướng",
-      "xu hướng"
-    ],
-    "cau_en": "for students, there is a tendency to socialize in the evenings",
-    "cau_vn": "Dành cho sinh viên, có xu hướng xã hội hóa vào buổi tối",
-    "hash_code_list_mean": "432330147",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809706974_b413a426c4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809706974_246eb7a0bb_o.png",
-        "id_image": "tendency_5957010"
-      }
-    ],
-    "hash_code_list_img": "1637037101"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/report_gg_img_4500_it.json",
-    "id_item": "report_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "report",
-    "list_mean": [
-      "thanh danh",
-      "biên bản",
-      "danh tiếng",
-      "danh vọng",
-      "sự báo cáo",
-      "sự tường thuật",
-      "tin tức",
-      "tờ báo cáo",
-      "bản báo cáo",
-      "tiếng nổ",
-      "bản phúc trình",
-      "tin đồn",
-      "báo cáo",
-      "điều tra và viết phóng sự",
-      "kể lại",
-      "tin đồn",
-      "tường trình",
-      "thuật lại",
-      "trần thuật",
-      "nói lại",
-      "trình diện"
-    ],
-    "cau_en": "the representative reported a decline in milk and meat production",
-    "cau_vn": "Người đại diện đã báo cáo sự suy giảm về sản xuất sữa và thịt",
-    "hash_code_list_mean": "1090866564",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809678249_fbd947f6b4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809678249_03ef9e37d4_o.png",
-        "id_image": "report_1312289"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809678194_44e07abbf2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809678194_35aeb069bf_o.png",
-        "id_image": "report_1402116"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810059850_9ce3f7c045_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810059850_db840df9fe_o.png",
-        "id_image": "report_413669"
-      }
-    ],
-    "hash_code_list_img": "1448464500"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/overcast_gg_img_4500_it.json",
-    "id_item": "overcast_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "overcast",
-    "list_mean": [
-      "bị che",
-      "mờ tối",
-      "u ám",
-      "mũi may vắt",
-      "che khuất",
-      "làm mờ",
-      "tối"
-    ],
-    "cau_en": "the pebbled beach, overcast with the shadows of the high cliffs",
-    "cau_vn": "Bãi biển sỏi, u ám với những cái bóng của những vách đá cao",
-    "hash_code_list_mean": "-385144021",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809340626_2ea8a1350e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809340626_f25110cbd4_o.png",
-        "id_image": "overcast_5493138"
-      }
-    ],
-    "hash_code_list_img": "1339765677"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/discussion_gg_img_4500_it.json",
-    "id_item": "discussion_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "discussion",
-    "list_mean": [
-      "bàn bạc",
-      "tài sản kiểm kê",
-      "thảo luận",
-      "thưởng thức",
-      "tranh luận"
-    ],
-    "cau_en": "the proposals are not a blueprint but ideas for discussion",
-    "cau_vn": "Các đề xuất không phải là một kế hoạch chi tiết nhưng ý tưởng để thảo luận",
-    "hash_code_list_mean": "809105500",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810053325_a1a22a17e5_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810053325_0e5592170b_o.png",
-        "id_image": "discussion_2139528"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808361172_a1d9a07ae6_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808361172_88ebe4f1a7_o.png",
-        "id_image": "discussion_2643487"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809316866_35d94cd7e2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809316866_fd06a3a3a7_o.png",
-        "id_image": "discussion_3381432"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809671639_4484f81673_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809671639_f506b5f1d9_o.png",
-        "id_image": "discussion_745195"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809671614_d7f19b6ede_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809671614_0dde1182af_o.png",
-        "id_image": "discussion_745202"
-      }
-    ],
-    "hash_code_list_img": "-1811748437"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/consideration_gg_img_4500_it.json",
-    "id_item": "consideration_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "consideration",
-    "list_mean": [
-      "sự chú ý",
-      "sự đắn đo",
-      "sự kính trọng",
-      "sự quan trọng",
-      "sự xem xét",
-      "tiền bảo chứng",
-      "tiền thưởng"
-    ],
-    "cau_en": "a long process involving a great deal of careful consideration",
-    "cau_vn": "một quá trình dài liên quan đến một sự xem xét cẩn thận",
-    "hash_code_list_mean": "-1874861940",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809665289_0b17fe7228_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809665289_a7ab67a8b6_o.png",
-        "id_image": "consideration_5778251"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810046955_ac9c3ae22e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810046955_dcf1419cdc_o.png",
-        "id_image": "consideration_5778534"
-      }
-    ],
-    "hash_code_list_img": "-22315971"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/journalism_gg_img_4500_it.json",
-    "id_item": "journalism_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "journalism",
-    "list_mean": [
-      "nghề làm báo",
-      "nghề viết báo"
-    ],
-    "cau_en": "pop journalism",
-    "cau_vn": "Báo chí POP.",
-    "hash_code_list_mean": "-783697393",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810069125_c98d1f900c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810069125_e98f80f6c0_o.png",
-        "id_image": "journalism_1354765"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808377097_781328b9ff_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808377097_1a906fcf3e_o.png",
-        "id_image": "journalism_4459192"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809687289_40c5e4cd79_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809687289_ef29ecff81_o.png",
-        "id_image": "journalism_6182848"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810069005_e6cc718ac9_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810069005_87f2d202ec_o.png",
-        "id_image": "journalism_6316004"
-      }
-    ],
-    "hash_code_list_img": "1531616902"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/composer_gg_img_4500_it.json",
-    "id_item": "composer_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "composer",
-    "list_mean": [
-      "người soạn nhạc"
-    ],
-    "cau_en": "Mozart was her favorite composer",
-    "cau_vn": "Mozart là nhà soạn nhạc yêu thích của cô ấy",
-    "hash_code_list_mean": "-1779338455",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808359582_149f1d45ba_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808359582_e931b6369d_o.png",
-        "id_image": "composer_1194520"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810051860_53b19ea0a6_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810051860_d6e88c1452_o.png",
-        "id_image": "composer_4752523"
-      }
-    ],
-    "hash_code_list_img": "1629489804"
+    "hash_code_list_img": "-423581700"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/shackle_gg_img_4500_it.json",
@@ -1382,1842 +1398,228 @@
         "id_image": "shackle_1401419"
       }
     ],
-    "hash_code_list_img": "464632435"
+    "hash_code_list_img": "68358784"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/maillot_gg_img_4500_it.json",
-    "id_item": "maillot_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/swordsman_gg_img_4500_it.json",
+    "id_item": "swordsman_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "maillot",
+    "english": "swordsman",
     "list_mean": [
-      "hàng xấp thơ",
-      "kệ sắp thơ"
+      "người đánh kiếm",
+      "người múa kiếm"
     ],
-    "cau_en": "the maillot jaune is the yellow jersey worn by the leader",
-    "cau_vn": "The Maillot Jaune là chiếc áo vàng mặc bởi nhà lãnh đạo",
-    "hash_code_list_mean": "-190760893",
+    "cau_en": "an expert swordsman",
+    "cau_vn": "một kiếm sĩ chuyên gia",
+    "hash_code_list_mean": "1020769048",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809443678_86c618b61d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809443678_2b8b772bb4_o.png",
-        "id_image": "maillot_5267506"
+        "link_thumb": "https://live.staticflickr.com/65535/51810068130_180cb1bcbb_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810068130_1459f9b2d3_o.png",
+        "id_image": "swordsman_2822374"
       }
     ],
-    "hash_code_list_img": "628260755"
+    "hash_code_list_img": "423377723"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/push_gg_img_4500_it.json",
-    "id_item": "push_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/elbow_gg_img_4500_it.json",
+    "id_item": "elbow_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "push",
+    "english": "elbow",
     "list_mean": [
-      "xô",
-      "bấm chuông",
-      "đẩy",
-      "đưa tới",
-      "nhận nút",
-      "tiến tới",
-      "thúc giục",
-      "cái bấm điện",
-      "cái bấn chuông",
-      "lúc khó khăn",
-      "sức đẩy lên",
-      "sức đở lên",
-      "cái nút chuông",
-      "sự cố gắng",
-      "sự đẩy",
-      "sự nổ lực",
-      "sự nguy ngập",
-      "sự rán sức",
-      "sự tấn công mảnh liệt",
-      "sự xô"
+      "chổ cong",
+      "chổ khuỷu",
+      "chổ quẹo",
+      "cùi chỏ",
+      "cùi tay",
+      "khuỷu tay",
+      "chổ gập",
+      "thúc bằng cùi chỏ"
     ],
-    "cau_en": "she believed he was pushing their daughter too hard",
-    "cau_vn": "Cô tin rằng anh ta đang đẩy con gái quá mạnh",
-    "hash_code_list_mean": "-1794065984",
+    "cau_en": "his new TV talk show was elbowed aside in the ratings war",
+    "cau_vn": "Chương trình Talk Talk mới của anh ấy đã khuỷu tay sang một bên trong cuộc chiến xếp hạng",
+    "hash_code_list_mean": "224540105",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809461498_166dde6ba6_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809461498_8266f05039_o.png",
-        "id_image": "push_2785346"
+        "link_thumb": "https://live.staticflickr.com/65535/51809682064_4c4a0718fd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809682064_c51e7fb546_o.png",
+        "id_image": "elbow_2813314"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809346636_42c53fccd3_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809346636_f55e1a9689_o.png",
-        "id_image": "push_3062516"
+        "link_thumb": "https://live.staticflickr.com/65535/51809441928_e7c2ed233e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809441928_e9df174062_o.png",
+        "id_image": "elbow_2904454"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809346621_85b95aef5a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809346621_54c6f1e5ea_o.png",
-        "id_image": "push_4151866"
+        "link_thumb": "https://live.staticflickr.com/65535/51809681959_3060345540_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809681959_953f545794_o.png",
+        "id_image": "elbow_5672141"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809461418_434a6eb230_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809461418_bfb8ed0675_o.png",
-        "id_image": "push_5906050"
+        "link_thumb": "https://live.staticflickr.com/65535/51810063750_1cb2b7e56d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810063750_2e400efc52_o.png",
+        "id_image": "elbow_5726846"
       }
     ],
-    "hash_code_list_img": "1608715679"
+    "hash_code_list_img": "-672462264"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/jeweler_gg_img_4500_it.json",
-    "id_item": "jeweler_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/vest_gg_img_4500_it.json",
+    "id_item": "vest_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "jeweler",
+    "english": "vest",
     "list_mean": [
-      "người bán đồ châu báu",
-      "người bán đồ kim hoàn",
-      "người làm đồ nữ trang",
-      "thợ kim hoàn"
+      "phong cho",
+      "ban cho",
+      "giao cho",
+      "áo gi lê",
+      "áo không tay không cổ",
+      "áo lá"
     ],
-    "cau_en": "he is managing director of Britain's biggest jeweler",
-    "cau_vn": "Ông là Giám đốc điều hành viên kim hoàn lớn nhất của Anh",
-    "hash_code_list_mean": "-1875192895",
+    "cau_en": "he approaches the altar to vest for Mass",
+    "cau_vn": "Anh tiếp cận bàn thờ để vest cho hàng loạt",
+    "hash_code_list_mean": "-1675976199",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809334501_da9492d1e4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809334501_707733c250_o.png",
-        "id_image": "jeweler_1426204"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809689499_a45bc949fb_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809689499_91164aaacc_o.png",
-        "id_image": "jeweler_1426208"
+        "link_thumb": "https://live.staticflickr.com/65535/51809460318_7d1be00582_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809460318_9b0b254e89_o.png",
+        "id_image": "vest_1373396"
       }
     ],
-    "hash_code_list_img": "-513257826"
+    "hash_code_list_img": "1185851926"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/roller_gg_img_4500_it.json",
-    "id_item": "roller_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/fig_gg_img_4500_it.json",
+    "id_item": "fig_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "roller",
+    "english": "fig",
     "list_mean": [
-      "cái trục",
-      "máy cán",
-      "ống ép kim loại",
-      "ống lăn mực",
-      "sóng biển",
-      "thợ cán kim loại",
-      "thợ ép kim loại",
-      "trục lăn",
-      "trục sơn tường"
+      "sung",
+      "lể phục",
+      "quần áo",
+      "y phục",
+      "chế nhạo",
+      "trang điểm"
     ],
-    "cau_en": "the sheets moved through rollers and down the folding machine",
-    "cau_vn": "Các tấm di chuyển qua con lăn và xuống máy gấp",
-    "hash_code_list_mean": "-1271777330",
+    "cau_en": "he was figged out in the latest modes",
+    "cau_vn": "Ông đã được đánh lừa trong các chế độ mới nhất",
+    "hash_code_list_mean": "-1025754356",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809343376_b12366eeea_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809343376_dc2758f73c_o.png",
-        "id_image": "roller_1833232"
+        "link_thumb": "https://live.staticflickr.com/65535/51809685589_75ebe5a02d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809685589_935cd73058_o.png",
+        "id_image": "fig_1135471"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809698639_3f91068b8d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809698639_8b47fe9489_o.png",
-        "id_image": "roller_408416"
+        "link_thumb": "https://live.staticflickr.com/65535/51808375212_e402654fda_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808375212_4d7e6447ed_o.png",
+        "id_image": "fig_1411016"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809330436_80da48f2f8_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809330436_71d7b971bc_o.png",
+        "id_image": "fig_2077152"
       }
     ],
-    "hash_code_list_img": "-2107209760"
+    "hash_code_list_img": "1198463315"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/fuse_gg_img_4500_it.json",
-    "id_item": "fuse_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/violent_gg_img_4500_it.json",
+    "id_item": "violent_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "fuse",
+    "english": "violent",
     "list_mean": [
-      "cầu chì",
-      "dây nổ",
-      "hỏa pháo",
-      "hỏa tiển",
-      "ngòi",
-      "dính lại",
-      "gắn ngòi vào",
-      "hổn hợp",
-      "làm chảy ra",
-      "liên hợp"
+      "dữ dội",
+      "mạnh mẻ",
+      "dữ tợn"
     ],
-    "cau_en": "the bomb was fused to go off during a charity performance",
-    "cau_vn": "Bom đã được hợp nhất để tắt trong một hiệu suất từ thiện",
-    "hash_code_list_mean": "-516506681",
+    "cau_en": "a violent confrontation with riot police",
+    "cau_vn": "một cuộc đối đầu dữ dội với cảnh sát bạo loạn",
+    "hash_code_list_mean": "1184756325",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809455853_d14992207a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809455853_435aef53d0_o.png",
-        "id_image": "fuse_2231295"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810078365_ffa6a66e26_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810078365_6099fa8f55_o.png",
-        "id_image": "fuse_2546980"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809455798_6339d7dc79_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809455798_33a03ef0a2_o.png",
-        "id_image": "fuse_5387352"
+        "link_thumb": "https://live.staticflickr.com/65535/51809698354_7333cb8509_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809698354_ef0c32bdb5_o.png",
+        "id_image": "violent_6305773"
       }
     ],
-    "hash_code_list_img": "372616647"
+    "hash_code_list_img": "216577469"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/wheel_gg_img_4500_it.json",
-    "id_item": "wheel_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/jingle_gg_img_4500_it.json",
+    "id_item": "jingle_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "wheel",
+    "english": "jingle",
     "list_mean": [
-      "bánh xe",
-      "sự chạy quanh",
-      "xe đạp",
-      "xe máy"
+      "rung leng keng",
+      "xóc xủng xoảng",
+      "câu thơ có nhiều vần điệp",
+      "câu thơ nhiều âm điệp",
+      "sự lặp âm",
+      "tiếng leng keng",
+      "tiếng xủng xoảng",
+      "xe hai bánh có mui"
     ],
-    "cau_en": "the sled was wheeled out to the flight deck",
-    "cau_vn": "Sled đã được chuyển đến sàn bay",
-    "hash_code_list_mean": "-354844050",
+    "cau_en": "he makes up advertising jingles",
+    "cau_vn": "anh ấy tạo nên quảng cáo jingles",
+    "hash_code_list_mean": "1793338036",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808376187_759b2926e1_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808376187_c7dc90c5ff_o.png",
-        "id_image": "wheel_1399491"
+        "link_thumb": "https://live.staticflickr.com/65535/51809448813_a021fc65bd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809448813_37b62a44bb_o.png",
+        "id_image": "jingle_352233"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809686559_54f57a2990_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809686559_84a90f4b20_o.png",
-        "id_image": "wheel_545974"
+        "link_thumb": "https://live.staticflickr.com/65535/51810070675_506449e782_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810070675_d5f1100b26_o.png",
+        "id_image": "jingle_4213194"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51808376232_85f9304e92_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808376232_47bde5b6c9_o.png",
-        "id_image": "wheel_827194"
+        "link_thumb": "https://live.staticflickr.com/65535/51808378577_e3543ac81b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808378577_928250bb0d_o.png",
+        "id_image": "jingle_5978491"
       }
     ],
-    "hash_code_list_img": "-1992670591"
+    "hash_code_list_img": "-152503086"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/thin_gg_img_4500_it.json",
-    "id_item": "thin_gg_img_4500_it",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/grave_gg_img_4500_it.json",
+    "id_item": "grave_gg_img_4500_it",
     "id_album": "570943368",
-    "english": "thin",
+    "english": "grave",
     "list_mean": [
-      "lưa thưa",
-      "gầy",
-      "không dầy",
-      "lỏng",
-      "không vững chắc",
-      "mõng",
-      "ốm",
-      "làm cho mõng",
-      "làm ốm bớt"
+      "nghiêm trang",
+      "uy nghiêm",
+      "quan trọng",
+      "trang trọng",
+      "trọng đại",
+      "trọng yếu",
+      "mồ mã",
+      "nghĩa trang",
+      "phần mộ",
+      "đào hố",
+      "đào huyệt"
     ],
-    "cau_en": "the remorseless fire of archers thinned their ranks",
-    "cau_vn": "ngọn lửa không hối hận của cung thủ thu hút thứ hạng của họ",
-    "hash_code_list_mean": "-13456227",
+    "cau_en": "marble graved with exquisite flower, human and animal forms",
+    "cau_vn": "đá cẩm thạch bị nghẹt với hoa tinh tế, hình dạng con người và động vật",
+    "hash_code_list_mean": "-860096097",
     "list_img": [
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809704319_9233e7eee7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809704319_04e005e46a_o.png",
-        "id_image": "thin_1466546"
+        "link_thumb": "https://live.staticflickr.com/65535/51808368482_6b83661c57_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808368482_f28e534d72_o.png",
+        "id_image": "grave_1022299"
       },
       {
-        "link_thumb": "https://live.staticflickr.com/65535/51809704299_13781015da_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809704299_f3846d860c_o.png",
-        "id_image": "thin_4637252"
+        "link_thumb": "https://live.staticflickr.com/65535/51808368422_f4457f7eea_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808368422_c2c3616fe9_o.png",
+        "id_image": "grave_1901055"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808368367_734eeb8e61_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808368367_da371ceb46_o.png",
+        "id_image": "grave_5426443"
       }
     ],
-    "hash_code_list_img": "-1292412644"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/frost_gg_img_4500_it.json",
-    "id_item": "frost_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "frost",
-    "list_mean": [
-      "rét đông giá",
-      "sự đông giá",
-      "sương đọng trên cây",
-      "sự thất bại",
-      "làm mờ",
-      "phủ sương"
-    ],
-    "cau_en": "each windowpane was frosted along its edges",
-    "cau_vn": "Mỗi cửa sổ bị mờ dọc theo các cạnh của nó",
-    "hash_code_list_mean": "-1761445351",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808388597_49f75ff8eb_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808388597_91a2c2a208_o.png",
-        "id_image": "frost_271869"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809343611_a68c67d83c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809343611_d38b3035cc_o.png",
-        "id_image": "frost_6183141"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809698794_a140e7cf0f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809698794_6fe3299cb1_o.png",
-        "id_image": "frost_6301438"
-      }
-    ],
-    "hash_code_list_img": "-1034769097"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/stew_gg_img_4500_it.json",
-    "id_item": "stew_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "stew",
-    "list_mean": [
-      "ao nuôi cá",
-      "chổ rộng cá",
-      "nhà điếm",
-      "sự khó chịu",
-      "món thịt hầm",
-      "nấu thịt hầm",
-      "ngộp thở"
-    ],
-    "cau_en": "I suppose he's all in a stew",
-    "cau_vn": "Tôi cho rằng anh ấy đang ở trong một món hầm",
-    "hash_code_list_mean": "-83840546",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809461798_2a156b7a2e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809461798_c11f52ab15_o.png",
-        "id_image": "stew_3690235"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810084340_f6b3cc3d54_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810084340_243486ced3_o.png",
-        "id_image": "stew_4834107"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809347006_cd4f519b66_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809347006_b46999791e_o.png",
-        "id_image": "stew_661308"
-      }
-    ],
-    "hash_code_list_img": "73507155"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/competitor_gg_img_4500_it.json",
-    "id_item": "competitor_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "competitor",
-    "list_mean": [
-      "địch thủ",
-      "đối thủ"
-    ],
-    "cau_en": "two competitors were banned for taking drugs",
-    "cau_vn": "Hai đối thủ cạnh tranh đã bị cấm dùng thuốc",
-    "hash_code_list_mean": "-379860122",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809431373_5c19f1315d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809431373_694d41463c_o.png",
-        "id_image": "competitor_2311638"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809316456_7d42a01e94_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809316456_8fcef2df17_o.png",
-        "id_image": "competitor_3867498"
-      }
-    ],
-    "hash_code_list_img": "1480522787"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/trial_gg_img_4500_it.json",
-    "id_item": "trial_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "trial",
-    "list_mean": [
-      "bước gian nan",
-      "mối khổ nảo",
-      "mối khổ sở",
-      "sự thí nghiệm",
-      "sự xét đoán",
-      "sự xử án",
-      "việc tố tụng",
-      "việc thưa kiện"
-    ],
-    "cau_en": "clinical trials must establish whether the new hip replacements are working",
-    "cau_vn": "Các thử nghiệm lâm sàng phải thiết lập liệu các thay thế hông mới đang hoạt động",
-    "hash_code_list_mean": "1908068401",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810071390_97e42c184b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810071390_f7cd1a0b96_o.png",
-        "id_image": "trial_2720697"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810071435_ccd20591d4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810071435_f46024d8e6_o.png",
-        "id_image": "trial_354504"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809449428_dfbb3451a4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809449428_10d0948aa7_o.png",
-        "id_image": "trial_5110820"
-      }
-    ],
-    "hash_code_list_img": "-1731262546"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/bully_gg_img_4500_it.json",
-    "id_item": "bully_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "bully",
-    "list_mean": [
-      "lạ lùng",
-      "lúc hổn đấu",
-      "người hung bạo",
-      "thịt bò hộp",
-      "ngược đải"
-    ],
-    "cau_en": "her 11- year-old son has been constantly bullied at school",
-    "cau_vn": "Con trai 11 tuổi của cô đã liên tục bị bắt nạt ở trường",
-    "hash_code_list_mean": "717463356",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809311116_a9d218c0b9_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809311116_db9a5a2a6b_o.png",
-        "id_image": "bullying_2284974"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808355232_3bcdb04580_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808355232_5e83c8a838_o.png",
-        "id_image": "bullying_2534566"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809426013_5d94658b15_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809426013_d669f17a61_o.png",
-        "id_image": "bullying_3387037"
-      }
-    ],
-    "hash_code_list_img": "-513314256"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/markup_gg_img_4500_it.json",
-    "id_item": "markup_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "markup",
-    "list_mean": [
-      "lên giá vật gì"
-    ],
-    "cau_en": "a markup of 50 percent",
-    "cau_vn": "đánh dấu 50 phần trăm",
-    "hash_code_list_mean": "-108809464",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809322576_7d002ddccf_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809322576_ccd176771c_o.png",
-        "id_image": "markup_2472193"
-      }
-    ],
-    "hash_code_list_img": "420561561"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/provocation_gg_img_4500_it.json",
-    "id_item": "provocation_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "provocation",
-    "list_mean": [
-      "sự chọc ghẹo",
-      "sự kiêu khích",
-      "sự xúi giục"
-    ],
-    "cau_en": "you should remain calm and not respond to provocation",
-    "cau_vn": "bạn nên giữ bình tĩnh và không phản ứng với sự khiêu khích",
-    "hash_code_list_mean": "-792368070",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809703944_4eb8930783_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809703944_a7788ce295_o.png",
-        "id_image": "provocation_1397094"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809463928_5c3980e69b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809463928_710f997dde_o.png",
-        "id_image": "provocation_4201565"
-      }
-    ],
-    "hash_code_list_img": "1065167507"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/scoop_gg_img_4500_it.json",
-    "id_item": "scoop_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "scoop",
-    "list_mean": [
-      "cái gàu tát nườc",
-      "cái mai để xúc than đá",
-      "muỗng múc kem",
-      "cái nạo của khao mổ xẻ",
-      "cái vái tai",
-      "cái xẻng",
-      "cái xúc bằng xẻn",
-      "cái xuổng",
-      "đào đất",
-      "đục gổ",
-      "tát nước bằng gáo",
-      "xúc bằng cái xuổng"
-    ],
-    "cau_en": "reporters at the city's three tabloid papers usually compete for scoops",
-    "cau_vn": "Các phóng viên tại ba tờ báo lá cải của thành phố thường cạnh tranh cho muỗng",
-    "hash_code_list_mean": "1408719919",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809684339_b35c7f191a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809684339_aa7edb688d_o.png",
-        "id_image": "scoop_4597359"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809329456_5b8b938f43_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809329456_1d1a4c44aa_o.png",
-        "id_image": "scoop_525805"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809684399_e1dc22f4d2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809684399_4927053b8d_o.png",
-        "id_image": "scoop_528329"
-      }
-    ],
-    "hash_code_list_img": "206898787"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/footbridge_gg_img_4500_it.json",
-    "id_item": "footbridge_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "footbridge",
-    "list_mean": [
-      "cầu cho những người đi bộ",
-      "cây để ngang gát chân"
-    ],
-    "cau_en": "he took a short cut across a railroad footbridge",
-    "cau_vn": "Anh ta cắt một đoạn ngắn trên cầu đường sắt",
-    "hash_code_list_mean": "-739517806",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809316851_fb0b769cba_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809316851_b565ef9e91_o.png",
-        "id_image": "footbridge_1947963"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808361117_c2cd023d9a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808361117_01bdfddbfa_o.png",
-        "id_image": "footbridge_2119023"
-      }
-    ],
-    "hash_code_list_img": "5828615"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nourishment_gg_img_4500_it.json",
-    "id_item": "nourishment_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "nourishment",
-    "list_mean": [
-      "sự nuôi dưỡng",
-      "thực phẩm"
-    ],
-    "cau_en": "tubers from which plants obtain nourishment",
-    "cau_vn": "củ từ đó thực vật có được nuôi dưỡng",
-    "hash_code_list_mean": "1419792346",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809435303_b4df9f5a5a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809435303_1ec84950fe_o.png",
-        "id_image": "nourishment_5101271"
-      }
-    ],
-    "hash_code_list_img": "1830438209"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/strike_gg_img_4500_it.json",
-    "id_item": "strike_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "strike",
-    "list_mean": [
-      "soi qua",
-      "đánh người nào",
-      "đình công",
-      "cái đánh",
-      "cuộc bải công",
-      "sự đụng nhằm",
-      "cuộc đình công"
-    ],
-    "cau_en": "they struck similar medals on behalf of the Normandy veterans",
-    "cau_vn": "Họ đánh huy chương tương tự thay mặt các cựu chiến binh Normandy",
-    "hash_code_list_mean": "-921882715",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808387392_c4d3086a73_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808387392_66af4db739_o.png",
-        "id_image": "strike_2529786"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810079785_a1f9359b9d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810079785_1963a61e9c_o.png",
-        "id_image": "strike_3476427"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810079735_525ae688cf_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810079735_4504a6024b_o.png",
-        "id_image": "strike_4144478"
-      }
-    ],
-    "hash_code_list_img": "646182184"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/development_gg_img_4500_it.json",
-    "id_item": "development_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "development",
-    "list_mean": [
-      "chuyện mới lạ",
-      "khai khẩn",
-      "khai phá",
-      "khai triển",
-      "khuếch trương",
-      "làm mở mang",
-      "làm nở namg",
-      "rữa phim ảnh",
-      "sự mở mang",
-      "tiến bộ",
-      "tiến triển"
-    ],
-    "cau_en": "I sought to take advantage of Black's defective development",
-    "cau_vn": "Tôi đã tìm cách tận dụng sự phát triển bị lỗi của Black",
-    "hash_code_list_mean": "-2084423756",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809680864_0a78614d99_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809680864_a145a3b407_o.png",
-        "id_image": "development_1646308"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809325706_2f25fa5eec_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809325706_39c3c1c7a7_o.png",
-        "id_image": "development_1900174"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809440668_ac794e8057_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809440668_5f89f7fc51_o.png",
-        "id_image": "development_2335271"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809680709_b4fe36daa1_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809680709_1174b2c902_o.png",
-        "id_image": "development_2452673"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808370562_3918524bb4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808370562_7c40d320ab_o.png",
-        "id_image": "development_943802"
-      }
-    ],
-    "hash_code_list_img": "-1557972394"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/justice_gg_img_4500_it.json",
-    "id_item": "justice_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "justice",
-    "list_mean": [
-      "sự công bằng"
-    ],
-    "cau_en": "a concern for justice, peace, and genuine respect for people",
-    "cau_vn": "một mối quan tâm cho công lý, hòa bình và tôn trọng người dân",
-    "hash_code_list_mean": "-1542301541",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809445068_18e0785a51_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809445068_b598c73995_o.png",
-        "id_image": "justice_1750503"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808374722_6bc5139fe1_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808374722_e984dfa050_o.png",
-        "id_image": "justice_3142982"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809685119_3a73504da3_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809685119_b11d68a1c8_o.png",
-        "id_image": "justice_325672"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809684949_126b436dac_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809684949_eddfeed40a_o.png",
-        "id_image": "justice_4729343"
-      }
-    ],
-    "hash_code_list_img": "737639970"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/bale_gg_img_4500_it.json",
-    "id_item": "bale_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "bale",
-    "list_mean": [
-      "kiện hàng hóa",
-      "khổ sở",
-      "nổi đau đớn",
-      "sự buồn rầu",
-      "sự thống khổ",
-      "tai họa",
-      "đóng thành kiện"
-    ],
-    "cau_en": "the fire destroyed 500 bales of hay",
-    "cau_vn": "Lửa đã phá hủy 500 kiện cỏ khô",
-    "hash_code_list_mean": "618014753",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809433788_3317a2dd6d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809433788_a3b60b55dc_o.png",
-        "id_image": "bale_123947"
-      }
-    ],
-    "hash_code_list_img": "1659364350"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/fee_gg_img_4500_it.json",
-    "id_item": "fee_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "fee",
-    "list_mean": [
-      "học phí",
-      "lảnh địa",
-      "tài sản thừa kế",
-      "tiền công"
-    ],
-    "cau_en": "they were faced with legal fees of $3000",
-    "cau_vn": "Họ đã phải đối mặt với phí pháp lý $ 3000",
-    "hash_code_list_mean": "1460661323",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809688129_1638a089b4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809688129_ca4aff85df_o.png",
-        "id_image": "fee_1328236"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809688099_eef04d21d2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809688099_d379653131_o.png",
-        "id_image": "fee_5235433"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809448108_77dd8466c2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809448108_0bc41c69c9_o.png",
-        "id_image": "fee_5455911"
-      }
-    ],
-    "hash_code_list_img": "1901510993"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/sake_gg_img_4500_it.json",
-    "id_item": "sake_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "sake",
-    "list_mean": [
-      "làm việc gì cho"
-    ],
-    "cau_en": "the couple moved to the coast for the sake of her health",
-    "cau_vn": "Cặp vợ chồng chuyển đến bờ biển vì sức khỏe của cô ấy",
-    "hash_code_list_mean": "101826400",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810074130_478c621d77_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810074130_8345e4c6fd_o.png",
-        "id_image": "sake_2700273"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809692394_7927c0cfd7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809692394_c8231ff4ed_o.png",
-        "id_image": "sake_2721385"
-      }
-    ],
-    "hash_code_list_img": "-1897640608"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/shave_gg_img_4500_it.json",
-    "id_item": "shave_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "shave",
-    "list_mean": [
-      "cái bào gọt",
-      "dao cạo râu",
-      "bào từng lát mõng",
-      "cạo râu",
-      "đi phớt qua"
-    ],
-    "cau_en": "Scott shaved the post in the 29th minute",
-    "cau_vn": "Scott cạo bài đăng vào phút thứ 29",
-    "hash_code_list_mean": "1228522220",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809346446_a1ac40361f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809346446_4afca6e07d_o.png",
-        "id_image": "shave_1686014"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809346391_33f9128c49_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809346391_88488f7c95_o.png",
-        "id_image": "shave_3959124"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809461228_f07a24fb21_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809461228_450dc2703e_o.png",
-        "id_image": "shave_538016"
-      }
-    ],
-    "hash_code_list_img": "-798712244"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/effigy_gg_img_4500_it.json",
-    "id_item": "effigy_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "effigy",
-    "list_mean": [
-      "hình",
-      "tượng"
-    ],
-    "cau_en": "coins bearing the effigy of Maria Theresa of Austria",
-    "cau_vn": "Tiền xu mang olwigy của Maria Theresa của Áo",
-    "hash_code_list_mean": "-1757496545",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808372442_420cc5f408_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808372442_2749822cdf_o.png",
-        "id_image": "effigy_4065217"
-      }
-    ],
-    "hash_code_list_img": "507448443"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/vegetarian_gg_img_4500_it.json",
-    "id_item": "vegetarian_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "vegetarian",
-    "list_mean": [
-      "chay",
-      "người chủ trương ăn chay",
-      "người ăn chay"
-    ],
-    "cau_en": "a vegetarian restaurant",
-    "cau_vn": "một nhà hàng chay",
-    "hash_code_list_mean": "812570125",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809702229_d6447735cc_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809702229_77f1c2a917_o.png",
-        "id_image": "vegetarian_2117277"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809462148_a493ef44ae_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809462148_4dd2b48464_o.png",
-        "id_image": "vegetarian_2689436"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809462113_70432171ea_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809462113_1c5f7c57fb_o.png",
-        "id_image": "vegetarian_5635512"
-      }
-    ],
-    "hash_code_list_img": "-2143777565"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/police_gg_img_4500_it.json",
-    "id_item": "police_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "police",
-    "list_mean": [
-      "công an",
-      "cảnh sát",
-      "cảnh sát viên",
-      "nhân viên công lực",
-      "giử trật tự"
-    ],
-    "cau_en": "when someone is killed, the police have to be informed",
-    "cau_vn": "Khi ai đó bị giết, cảnh sát phải được thông báo",
-    "hash_code_list_mean": "-811127379",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810074755_b9e4050d70_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810074755_6774468761_o.png",
-        "id_image": "police_2991186"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810074785_9dd75b5501_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810074785_d000b0e840_o.png",
-        "id_image": "police_771388"
-      }
-    ],
-    "hash_code_list_img": "1044665569"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/hostage_gg_img_4500_it.json",
-    "id_item": "hostage_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "hostage",
-    "list_mean": [
-      "con tin",
-      "đồ cầm"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1713674987",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809330501_5afdb8eebf_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809330501_e2342b0e23_o.png",
-        "id_image": "hostage_2302416"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808375207_5465728cc1_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808375207_49c013ea78_o.png",
-        "id_image": "hostage_3604881"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810067290_bbeedf4e06_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810067290_b7ea43eea8_o.png",
-        "id_image": "hostage_4321593"
-      }
-    ],
-    "hash_code_list_img": "-947954099"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/coke_gg_img_4500_it.json",
-    "id_item": "coke_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "coke",
-    "list_mean": [
-      "than cốc",
-      "than luyện",
-      "thành than luyện",
-      "chế than luyện"
-    ],
-    "cau_en": "certain operators were coking this coal on a small scale",
-    "cau_vn": "Các nhà khai thác nhất định đã ca ngợi than này ở quy mô nhỏ",
-    "hash_code_list_mean": "-609809790",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810060435_aba2088123_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810060435_9bab080be2_o.png",
-        "id_image": "coke_2688584"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808368522_bcebccc9cc_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808368522_4e51fa15b4_o.png",
-        "id_image": "coke_2688590"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808368487_07e3bcc7b9_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808368487_8f58180fa7_o.png",
-        "id_image": "coke_2836521"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810060335_04557d78ff_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810060335_80be82b0c9_o.png",
-        "id_image": "coke_3917905"
-      }
-    ],
-    "hash_code_list_img": "1478033093"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/playbill_gg_img_4500_it.json",
-    "id_item": "playbill_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "playbill",
-    "list_mean": [
-      "biểu ngữ quảng cáo vở kịch",
-      "giấy quảng cáo tuồng hát"
-    ],
-    "cau_en": "her name occupied third place in the playbills",
-    "cau_vn": "Tên cô chiếm vị trí thứ ba trong các playbills",
-    "hash_code_list_mean": "-478963782",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809696569_65f65811bc_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809696569_e8359416a6_o.png",
-        "id_image": "playbill_2519189"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809456163_995e991e78_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809456163_0e400d2b51_o.png",
-        "id_image": "playbill_4090133"
-      }
-    ],
-    "hash_code_list_img": "-1792024860"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/candy_gg_img_4500_it.json",
-    "id_item": "candy_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "candy",
-    "list_mean": [
-      "đường phèn",
-      "kẹo",
-      "kẹo đường",
-      "làm thành đường"
-    ],
-    "cau_en": "I candied the walnuts with maple syrup",
-    "cau_vn": "Tôi đã kẹo quả óc chó với xi-rô Maple",
-    "hash_code_list_mean": "-967811728",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810040465_47a197bbbe_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810040465_caa3707407_o.png",
-        "id_image": "candy_5965115"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810040445_820e965d52_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810040445_c8460f4868_o.png",
-        "id_image": "candy_5965142"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809303691_2dc67ca5d2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809303691_7ea826f7d8_o.png",
-        "id_image": "candy_6119325"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809658949_d6100f012e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809658949_900d0baa7d_o.png",
-        "id_image": "candy_6347547"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809303681_b74b240522_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809303681_7e9243cdf8_o.png",
-        "id_image": "candy_6347610"
-      }
-    ],
-    "hash_code_list_img": "-1335151090"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/capitalize_gg_img_4500_it.json",
-    "id_item": "capitalize_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "capitalize",
-    "list_mean": [
-      "đổi thành vốn",
-      "viết hay in bằng chữ hoa"
-    ],
-    "cau_en": "a highly capitalized industry",
-    "cau_vn": "một ngành công nghiệp viết hoa cao",
-    "hash_code_list_mean": "-1688002177",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809683544_b96b002509_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809683544_e74defe804_o.png",
-        "id_image": "capitalize_2169789"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809328416_683985d9a1_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809328416_2228886c25_o.png",
-        "id_image": "capitalize_2538082"
-      }
-    ],
-    "hash_code_list_img": "1822771739"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/screen_gg_img_4500_it.json",
-    "id_item": "screen_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "screen",
-    "list_mean": [
-      "màn",
-      "màn ảnh",
-      "màn bạc chiếu bóng",
-      "màn che chụp ảnh",
-      "minh tinh màn bạc",
-      "tấm bình phong",
-      "vật che khuất",
-      "che bằng bình phong",
-      "che bằng màn",
-      "che chở",
-      "đem chuyện quay thành phim"
-    ],
-    "cau_en": "a room with a red carpet and screens with oriental decorations",
-    "cau_vn": "một căn phòng có thảm đỏ và màn hình với đồ trang trí phương Đông",
-    "hash_code_list_mean": "840829609",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809682389_0d024304db_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809682389_63e85373ca_o.png",
-        "id_image": "screen_2123759"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809327156_e5d5544869_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809327156_2c2f3d226d_o.png",
-        "id_image": "screen_5223608"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809327291_99d8aea046_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809327291_6b44a748ef_o.png",
-        "id_image": "screen_588239"
-      }
-    ],
-    "hash_code_list_img": "-184445130"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/plate_gg_img_4500_it.json",
-    "id_item": "plate_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "plate",
-    "list_mean": [
-      "bản khắc để in",
-      "cái cúp bằng vàng",
-      "chén dĩa bằng vàng",
-      "đĩa",
-      "đường rầy xe lửa",
-      "miếng kim loại",
-      "móng sắt bò",
-      "tấm bảng đồng",
-      "tấm kim loại",
-      "tấm lổ khoá",
-      "bịt một lớp vàng ngoài",
-      "bọc sắt chiếc tàu",
-      "chụp hình để in",
-      "đóng móng sắt"
-    ],
-    "cau_en": "overcooked vegetables won't look appetizing, no matter how they are plated",
-    "cau_vn": "rau quả quá chín sẽ không nhìn ngon miệng, bất kể chúng được mạ như thế nào",
-    "hash_code_list_mean": "2746596",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809697119_573741e3cb_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809697119_503fa6e90d_o.png",
-        "id_image": "plate_3534510"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808386897_242b00e7c5_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808386897_0cf0134d6a_o.png",
-        "id_image": "plate_6150146"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809697144_139c24e2b0_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809697144_f8f1e47d31_o.png",
-        "id_image": "plate_883743"
-      }
-    ],
-    "hash_code_list_img": "1502910291"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/tray_gg_img_4500_it.json",
-    "id_item": "tray_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "tray",
-    "list_mean": [
-      "khay",
-      "mâm",
-      "vật giống cái khay"
-    ],
-    "cau_en": "they ate supper off a tray in front of the fire",
-    "cau_vn": "Họ đã ăn bữa ăn tối một khay trước ngọn lửa",
-    "hash_code_list_mean": "-1847681930",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809450643_f4af825713_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809450643_c7cdcd384b_o.png",
-        "id_image": "tray_2204172"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810072550_1ff2230e41_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810072550_29b87d4b34_o.png",
-        "id_image": "tray_2323819"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809690974_0d5e1a4bec_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809690974_c629d4dd43_o.png",
-        "id_image": "tray_333427"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809450673_8c3c5ac040_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809450673_73207c1821_o.png",
-        "id_image": "tray_376525"
-      }
-    ],
-    "hash_code_list_img": "-30298074"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/help_gg_img_4500_it.json",
-    "id_item": "help_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "help",
-    "list_mean": [
-      "đưa",
-      "cản trở",
-      "giúp",
-      "giúp đỡ",
-      "ngăn trở",
-      "dọn",
-      "đầy tớ gái",
-      "sự giúp đỡ"
-    ],
-    "cau_en": "they helped her with domestic chores",
-    "cau_vn": "Họ đã giúp cô ấy với các công việc trong nước",
-    "hash_code_list_mean": "1787414784",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808384117_1785c45ec4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808384117_3e9d88412f_o.png",
-        "id_image": "help_2072716"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808384157_532af76cdb_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808384157_e016f83d19_o.png",
-        "id_image": "help_258374"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810076360_3e7665f063_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810076360_b9a0d75b42_o.png",
-        "id_image": "help_943640"
-      }
-    ],
-    "hash_code_list_img": "-665631630"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/sow_gg_img_4500_it.json",
-    "id_item": "sow_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "sow",
-    "list_mean": [
-      "heo cái",
-      "gieo giống",
-      "gieo hột"
-    ],
-    "cau_en": "sow a thin layer of seeds on top",
-    "cau_vn": "Gieo một lớp hạt mỏng lên trên",
-    "hash_code_list_mean": "-790093976",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809440308_0c5e667f2b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809440308_abf810dc70_o.png",
-        "id_image": "sow_3319281"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809440273_c1f484aa0b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809440273_205e025f85_o.png",
-        "id_image": "sow_6041419"
-      }
-    ],
-    "hash_code_list_img": "2076676639"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/bruise_gg_img_4500_it.json",
-    "id_item": "bruise_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "bruise",
-    "list_mean": [
-      "chổ móp",
-      "trái cây giập",
-      "vết bầm",
-      "vết thâm",
-      "vết thương",
-      "làm giập",
-      "làm mốp",
-      "làm thương tích"
-    ],
-    "cau_en": "his body was a mass of bruises after he had been attacked",
-    "cau_vn": "Cơ thể anh ta là một khối bầm tím sau khi anh ta bị tấn công",
-    "hash_code_list_mean": "-1618727809",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809314046_ae9130a71d_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809314046_d86157bf03_o.png",
-        "id_image": "bruise_3387208"
-      }
-    ],
-    "hash_code_list_img": "896306234"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/triangular_gg_img_4500_it.json",
-    "id_item": "triangular_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "triangular",
-    "list_mean": [
-      "có ba cạnh",
-      "có ba góc",
-      "hình tam giác"
-    ],
-    "cau_en": "dainty triangular sandwiches",
-    "cau_vn": "bánh sandwich hình tam giác tuyệt vời",
-    "hash_code_list_mean": "1340449922",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809689164_e72013851c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809689164_dc2c930181_o.png",
-        "id_image": "triangular_280067"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809689129_98d097a8d7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809689129_22e5d058e8_o.png",
-        "id_image": "triangular_344030"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810071045_687df5e956_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810071045_241d0e291d_o.png",
-        "id_image": "triangular_6181216"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810071000_96b58d2b8b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810071000_9b9f25af14_o.png",
-        "id_image": "triangular_6181306"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810070965_040a282370_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810070965_981d659722_o.png",
-        "id_image": "triangular_6181728"
-      }
-    ],
-    "hash_code_list_img": "1170481933"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/wrench_gg_img_4500_it.json",
-    "id_item": "wrench_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "wrench",
-    "list_mean": [
-      "cái mỏ lết",
-      "đau đớn vì chia rẻ",
-      "đau đớn vì xa nhau",
-      "nổi khổ sở",
-      "sự vặn mạnh",
-      "cướp lấy",
-      "đoạt lấy",
-      "giựt lấy",
-      "vặn mạnh",
-      "làm sai nghĩa"
-    ],
-    "cau_en": "Casey grabbed the gun and wrenched it upward from my hand",
-    "cau_vn": "Casey nắm lấy khẩu súng và vặn vẹo nó lên từ tay tôi",
-    "hash_code_list_mean": "1639067239",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808377612_29ffa0bf71_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808377612_310364248e_o.png",
-        "id_image": "wrench_1768196"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809447813_d40b5ff458_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809447813_0826f5412e_o.png",
-        "id_image": "wrench_2137963"
-      }
-    ],
-    "hash_code_list_img": "-1353309941"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/today_gg_img_4500_it.json",
-    "id_item": "today_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "today",
-    "list_mean": [
-      "hôm nay",
-      "hiện giờ",
-      "ngày nay"
-    ],
-    "cau_en": "today is a day of rest",
-    "cau_vn": "Hôm nay là một ngày nghỉ ngơi",
-    "hash_code_list_mean": "609261408",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810083400_1edb78372a_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810083400_7cc7a6b7a2_o.png",
-        "id_image": "today_5849533"
-      }
-    ],
-    "hash_code_list_img": "1860982379"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/desert_gg_img_4500_it.json",
-    "id_item": "desert_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "desert",
-    "list_mean": [
-      "khô khan",
-      "hẻo lánh",
-      "vắng vẻ",
-      "sa mạc",
-      "công lao",
-      "công trạng",
-      "sự xứng đáng",
-      "giá trị",
-      "bỏ",
-      "bỏ đảng",
-      "trốn đi"
-    ],
-    "cau_en": "we feel our public representatives have deserted us",
-    "cau_vn": "Chúng tôi cảm thấy đại diện công cộng của chúng tôi đã bỏ rơi chúng tôi",
-    "hash_code_list_mean": "-1801756162",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808374092_285ac51192_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808374092_0aa24de90c_o.png",
-        "id_image": "desert_1083275"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809444363_97b0b36c94_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809444363_3045aa5d1b_o.png",
-        "id_image": "desert_1399467"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809684474_92d9f403ac_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809684474_2213ff1326_o.png",
-        "id_image": "desert_520098"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809444453_b634b1feb9_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809444453_e923dd1aaf_o.png",
-        "id_image": "desert_619136"
-      }
-    ],
-    "hash_code_list_img": "-2099036118"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_1/raw/main/disorder_gg_img_4500_it.json",
-    "id_item": "disorder_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "disorder",
-    "list_mean": [
-      "không có thứ tự",
-      "tình trạng lộn xộn",
-      "vô trật tự",
-      "xáo trộn",
-      "làm cho đau",
-      "làm hổn loạn",
-      "làm lộn xộn",
-      "làm mất thứ tự"
-    ],
-    "cau_en": "they are disordering the political landscape",
-    "cau_vn": "họ đang rối loạn cảnh quan chính trị",
-    "hash_code_list_mean": "746400823",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810052040_381b428153_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810052040_1c8cffc8af_o.png",
-        "id_image": "disorder_1960567"
-      }
-    ],
-    "hash_code_list_img": "297120273"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/key_gg_img_4500_it.json",
-    "id_item": "key_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "key",
-    "list_mean": [
-      "bài sửa lại",
-      "bí quyết",
-      "hòn đảo nhỏ",
-      "lời ghi chú",
-      "manh mối",
-      "chìa khóa",
-      "mộng gổ",
-      "chìa khóa lên dây đồng hồ",
-      "nói rang rảng",
-      "chìa khóa lên dây thiều",
-      "nói to",
-      "chốt sắt",
-      "nói với giọng cao",
-      "cù lao",
-      "nút của máy đánh chữ",
-      "điệu nhạc",
-      "phiếm đờn",
-      "đóng chốt sắt",
-      "đóng nêm cho chặt",
-      "khóa cửa",
-      "lên dây đàn",
-      "ráp mộng"
-    ],
-    "cau_en": "the key to Jack's behavior may lie submerged in his unhappy past",
-    "cau_vn": "Chìa khóa cho hành vi của Jack có thể nằm chìm trong quá khứ không vui của mình",
-    "hash_code_list_mean": "-2049652524",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809683919_4d6e9305b8_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809683919_aae0190622_o.png",
-        "id_image": "key_526811"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809328816_85f54f5366_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809328816_8c2cc0008b_o.png",
-        "id_image": "key_529250"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809683854_138158c42f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809683854_c44bc88056_o.png",
-        "id_image": "key_694193"
-      }
-    ],
-    "hash_code_list_img": "-82776838"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/terminal_gg_img_4500_it.json",
-    "id_item": "terminal_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "terminal",
-    "list_mean": [
-      "cuối cùng",
-      "cuối trạm ga",
-      "ở cuối",
-      "sau cùng",
-      "vạch địa giới",
-      "định giới hạn",
-      "ga cuối cùng",
-      "nhà ga phi trường",
-      "phần sau chót",
-      "trạm cuối cùng"
-    ],
-    "cau_en": "a freight terminal",
-    "cau_vn": "một nhà ga vận chuyển hàng hóa",
-    "hash_code_list_mean": "1050230714",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810089240_4d174aa193_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810089240_b28b5ca3e8_o.png",
-        "id_image": "terminal_1546645"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809706479_61d15a2ccf_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809706479_38a7e6e124_o.png",
-        "id_image": "terminal_2540838"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810089180_f0872e2ab3_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810089180_970a19dcb8_o.png",
-        "id_image": "terminal_4248495"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810089145_0a530c1356_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810089145_9d9b600062_o.png",
-        "id_image": "terminal_6395227"
-      }
-    ],
-    "hash_code_list_img": "633411215"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/convenient_gg_img_4500_it.json",
-    "id_item": "convenient_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "convenient",
-    "list_mean": [
-      "tiện lợi",
-      "tiện nghi"
-    ],
-    "cau_en": "I phoned your office to confirm that this date is convenient",
-    "cau_vn": "Tôi gọi điện cho văn phòng của bạn để xác nhận rằng ngày này là thuận tiện",
-    "hash_code_list_mean": "551859328",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809305941_c3e46f8c14_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809305941_8bfc736d02_o.png",
-        "id_image": "convenient_5773085"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810042930_6d1425c0cb_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810042930_779002bc4c_o.png",
-        "id_image": "convenient_5906060"
-      }
-    ],
-    "hash_code_list_img": "-1961550179"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/question_gg_img_4500_it.json",
-    "id_item": "question_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "question",
-    "list_mean": [
-      "câu chất vấn",
-      "câu hỏi",
-      "sự nghi ngờ",
-      "vấn đề",
-      "chất vấn",
-      "đem ra khảo sát",
-      "thảo luận",
-      "hỏi",
-      "nghi ngờ"
-    ],
-    "cau_en": "we hope this leaflet has been helpful in answering your questions",
-    "cau_vn": "Chúng tôi hy vọng tờ rơi này hữu ích trong việc trả lời câu hỏi của bạn",
-    "hash_code_list_mean": "-807843333",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808388967_45f1813395_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808388967_34a515c3ce_o.png",
-        "id_image": "question_2016404"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810081510_412455f618_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810081510_6e0262df1b_o.png",
-        "id_image": "question_745209"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809344046_664e584ea6_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809344046_a24a5d8c98_o.png",
-        "id_image": "question_943641"
-      }
-    ],
-    "hash_code_list_img": "-992854101"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/phantom_gg_img_4500_it.json",
-    "id_item": "phantom_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "phantom",
-    "list_mean": [
-      "ma",
-      "mộng tưởng",
-      "quái tượng",
-      "yêu quái"
-    ],
-    "cau_en": "a phantom who haunts lonely roads",
-    "cau_vn": "Một bóng ma ám ảnh những con đường cô đơn",
-    "hash_code_list_mean": "141490924",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809350446_1832f61809_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809350446_72edb0bc4d_o.png",
-        "id_image": "phantom_675147"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808395227_7ed850710e_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808395227_85ee1d48f4_o.png",
-        "id_image": "phantom_821772"
-      }
-    ],
-    "hash_code_list_img": "1537839370"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/cubic_gg_img_4500_it.json",
-    "id_item": "cubic_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "cubic",
-    "list_mean": [
-      "có hình khối"
-    ],
-    "cau_en": "a cubic room",
-    "cau_vn": "một phòng hình khối",
-    "hash_code_list_mean": "-1476550388",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809431553_67c3b6884b_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809431553_635c23fae0_o.png",
-        "id_image": "cubic_1533916"
-      }
-    ],
-    "hash_code_list_img": "1956717085"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/morality_gg_img_4500_it.json",
-    "id_item": "morality_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "morality",
-    "list_mean": [
-      "đạo đức",
-      "luân lý",
-      "phẩm hạnh",
-      "tánh hạnh"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "216236965",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808381457_d56b6eb3e4_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808381457_8af9a79041_o.png",
-        "id_image": "morality_3062487"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809336426_eb9d6f0f3f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809336426_2c5655e169_o.png",
-        "id_image": "morality_6203283"
-      }
-    ],
-    "hash_code_list_img": "982233421"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/cascade_gg_img_4500_it.json",
-    "id_item": "cascade_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "cascade",
-    "list_mean": [
-      "giòng nước",
-      "nguồn nước",
-      "thác nước",
-      "chảy như thác"
-    ],
-    "cau_en": "the waterfall raced down in a series of cascades",
-    "cau_vn": "Thác nước chạy xuống trong một loạt thác",
-    "hash_code_list_mean": "-799154308",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809677639_bc62e964af_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809677639_d9c3aaca2a_o.png",
-        "id_image": "cascade_1043487"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810059345_4b538669d2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810059345_acd02290fa_o.png",
-        "id_image": "cascade_190910"
-      }
-    ],
-    "hash_code_list_img": "2101489750"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/stimulation_gg_img_4500_it.json",
-    "id_item": "stimulation_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "stimulation",
-    "list_mean": [
-      "sự khích thíck",
-      "sự khuyến khích",
-      "sự quyến rũ"
-    ],
-    "cau_en": "the stimulation of a revolution in intelligence affairs",
-    "cau_vn": "sự kích thích của một cuộc cách mạng trong các vấn đề tình báo",
-    "hash_code_list_mean": "1688449437",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809461148_1bb68e65f0_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809461148_de33ddf938_o.png",
-        "id_image": "stimulation_6370553"
-      }
-    ],
-    "hash_code_list_img": "777046640"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/brochure_gg_img_4500_it.json",
-    "id_item": "brochure_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "brochure",
-    "list_mean": [
-      "quyển sách nhỏ và mỏng"
-    ],
-    "cau_en": "a holiday brochure",
-    "cau_vn": "một tập tài liệu kỳ nghỉ",
-    "hash_code_list_mean": "-844877930",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810051790_4892754fc6_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810051790_5f2ba08063_o.png",
-        "id_image": "brochure_494715"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809315226_7faba57a89_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809315226_4fef78f8d7_o.png",
-        "id_image": "brochure_538213"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808359417_824d3ac0a1_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808359417_acc8822035_o.png",
-        "id_image": "brochure_543931"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809315201_0d62f67678_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809315201_43a531ba18_o.png",
-        "id_image": "brochure_5978612"
-      }
-    ],
-    "hash_code_list_img": "-1039847910"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_3/raw/main/procession_gg_img_4500_it.json",
-    "id_item": "procession_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "procession",
-    "list_mean": [
-      "cuốc diển binh",
-      "cuộc diển hành"
-    ],
-    "cau_en": "a funeral procession",
-    "cau_vn": "một đám rạn tang lễ",
-    "hash_code_list_mean": "-141095813",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809438013_a43eeae1e7_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809438013_46f9e5a055_o.png",
-        "id_image": "procession_6000883"
-      }
-    ],
-    "hash_code_list_img": "546037379"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/overwork_gg_img_4500_it.json",
-    "id_item": "overwork_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "overwork",
-    "list_mean": [
-      "công việc làm thêm",
-      "sự làm việc quá độ",
-      "sự làm việc thêm",
-      "bắt làm việc quá độ",
-      "bắt làm việc quá nhiều",
-      "công việc nhiều quá",
-      "làm việc quá mệt"
-    ],
-    "cau_en": "employers should be aware that overworking their employees comes at a cost",
-    "cau_vn": "Người sử dụng lao động nên biết rằng việc làm việc quá sức cho nhân viên của họ đi kèm với một chi phí",
-    "hash_code_list_mean": "-370308792",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809339551_185eb5bcf8_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809339551_4bc78d157b_o.png",
-        "id_image": "overwork_4593086"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809339501_d9882c551f_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809339501_2ec6d5f0af_o.png",
-        "id_image": "overwork_5260097"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809454398_7bf7d01903_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809454398_e7c27c06dc_o.png",
-        "id_image": "overwork_5704966"
-      }
-    ],
-    "hash_code_list_img": "254128218"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/cowboy_gg_img_4500_it.json",
-    "id_item": "cowboy_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "cowboy",
-    "list_mean": [
-      "người chăn bò"
-    ],
-    "cau_en": "they are always playing cowboys and Indians",
-    "cau_vn": "Họ luôn luôn chơi Cowboys và Indians",
-    "hash_code_list_mean": "-1918823185",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810062040_5c056db5ce_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810062040_82390f8c63_o.png",
-        "id_image": "cowboy_412778"
-      }
-    ],
-    "hash_code_list_img": "145959373"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_0/raw/main/crank_gg_img_4500_it.json",
-    "id_item": "crank_gg_img_4500_it",
-    "id_album": "570943368",
-    "english": "crank",
-    "list_mean": [
-      "tay quây",
-      "cán quây",
-      "lời nói đùa",
-      "ý tưởng kỳ hoặc",
-      "máy chạy không đều",
-      "người kỳ dị",
-      "quái gở",
-      "tánh kỳ cục",
-      "bẻ cong lại",
-      "uốn thành hình khuỷu tay"
-    ],
-    "cau_en": "the starter motor struggled to crank the engine",
-    "cau_vn": "động cơ khởi động vật lộn để quay động cơ",
-    "hash_code_list_mean": "-384559985",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51810060530_ce8032d2c6_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51810060530_a629e5a767_o.png",
-        "id_image": "crank_1411857"
-      }
-    ],
-    "hash_code_list_img": "2145495157"
+    "hash_code_list_img": "-514909666"
   }
 ]
